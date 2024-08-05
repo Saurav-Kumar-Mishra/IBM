@@ -34,7 +34,8 @@ exports.addProduct = async (req, res) => {
             return res.status(400).json({ message: "Images must be an array with a maximum of 10 URLs" });
         }
 
-        const images = req.files.map(file => file.path);
+        const images = req.images.map(file => file.path);
+        console.log(images);
 
         const product = new Product({
             category: mongoose.Types.ObjectId(category),

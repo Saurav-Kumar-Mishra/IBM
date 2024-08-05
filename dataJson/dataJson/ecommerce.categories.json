@@ -1,0 +1,1142 @@
+[{
+  "_id": {
+    "$oid": "66afcfb84e3b6f5c8aa0757f"
+  },
+  "name": "Clothing",
+  "parent_id": null,
+  "priceRange": {
+    "min": 210,
+    "max": 20663
+  },
+  "__v": 0,
+  "itemsSold": 39249,
+  "productsCount": 803
+},
+{
+  "_id": {
+    "$oid": "66afcfb84e3b6f5c8aa0757e"
+  },
+  "name": "Women's Clothing",
+  "parent_id": {
+    "$oid": "66afcfb84e3b6f5c8aa0757f"
+  },
+  "priceRange": {
+    "min": 210,
+    "max": 12500
+  },
+  "__v": 0,
+  "itemsSold": 29542,
+  "productsCount": 584
+},
+{
+  "_id": {
+    "$oid": "66afcfb84e3b6f5c8aa0757d"
+  },
+  "name": "Lingerie, Sleep & Swimwear",
+  "parent_id": {
+    "$oid": "66afcfb84e3b6f5c8aa0757e"
+  },
+  "priceRange": {
+    "min": 210,
+    "max": 3650
+  },
+  "__v": 0,
+  "itemsSold": 11043,
+  "productsCount": 222
+},
+{
+  "_id": {
+    "$oid": "66afcfba4e3b6f5c8aa075a1"
+  },
+  "name": "Footwear",
+  "parent_id": null,
+  "priceRange": {
+    "min": 169,
+    "max": 5299
+  },
+  "__v": 0,
+  "itemsSold": 8959,
+  "productsCount": 190
+},
+{
+  "_id": {
+    "$oid": "66afcfba4e3b6f5c8aa075a2"
+  },
+  "name": "Women's Footwear",
+  "parent_id": {
+    "$oid": "66afcfba4e3b6f5c8aa075a1"
+  },
+  "priceRange": {
+    "min": 495,
+    "max": 5299
+  },
+  "__v": 0,
+  "itemsSold": 5143,
+  "productsCount": 113
+},
+{
+  "_id": {
+    "$oid": "66afcfba4e3b6f5c8aa075a3"
+  },
+  "name": "Ballerinas",
+  "parent_id": {
+    "$oid": "66afcfba4e3b6f5c8aa075a2"
+  },
+  "priceRange": {
+    "min": 499,
+    "max": 1724
+  },
+  "__v": 0,
+  "itemsSold": 937,
+  "productsCount": 25
+},
+{
+  "_id": {
+    "$oid": "66afcfbd4e3b6f5c8aa075ed"
+  },
+  "name": "Casual Shoes",
+  "parent_id": {
+    "$oid": "66afcfba4e3b6f5c8aa075a2"
+  },
+  "priceRange": {
+    "min": 495,
+    "max": 5299
+  },
+  "__v": 0,
+  "itemsSold": 1296,
+  "productsCount": 30
+},
+{
+  "_id": {
+    "$oid": "66afcfc74e3b6f5c8aa075ff"
+  },
+  "name": "Baby Care",
+  "parent_id": null,
+  "priceRange": {
+    "min": 300,
+    "max": 2999
+  },
+  "__v": 0,
+  "itemsSold": 724,
+  "productsCount": 20
+},
+{
+  "_id": {
+    "$oid": "66afcfc74e3b6f5c8aa075fe"
+  },
+  "name": "Infant Wear",
+  "parent_id": {
+    "$oid": "66afcfc74e3b6f5c8aa075ff"
+  },
+  "priceRange": {
+    "min": 499,
+    "max": 2999
+  },
+  "__v": 0,
+  "itemsSold": 686,
+  "productsCount": 17
+},
+{
+  "_id": {
+    "$oid": "66afcfc74e3b6f5c8aa075fd"
+  },
+  "name": "Baby Boys' Clothes",
+  "parent_id": {
+    "$oid": "66afcfc74e3b6f5c8aa075fe"
+  },
+  "priceRange": {
+    "min": 800,
+    "max": 2799
+  },
+  "__v": 0,
+  "itemsSold": 390,
+  "productsCount": 10
+},
+{
+  "_id": {
+    "$oid": "66afcfc74e3b6f5c8aa07610"
+  },
+  "name": "Men's Clothing",
+  "parent_id": {
+    "$oid": "66afcfb84e3b6f5c8aa0757f"
+  },
+  "priceRange": {
+    "min": 392,
+    "max": 20663
+  },
+  "__v": 0,
+  "itemsSold": 7850,
+  "productsCount": 169
+},
+{
+  "_id": {
+    "$oid": "66afcfc74e3b6f5c8aa0760f"
+  },
+  "name": "Shirts",
+  "parent_id": {
+    "$oid": "66afcfc74e3b6f5c8aa07610"
+  },
+  "priceRange": {
+    "min": 399,
+    "max": 2499
+  },
+  "__v": 0,
+  "itemsSold": 4413,
+  "productsCount": 97
+},
+{
+  "_id": {
+    "$oid": "66afcfd34e3b6f5c8aa07629"
+  },
+  "name": "Bags, Wallets & Belts",
+  "parent_id": null,
+  "priceRange": {
+    "min": 499,
+    "max": 8400
+  },
+  "__v": 0,
+  "itemsSold": 1443,
+  "productsCount": 32
+},
+{
+  "_id": {
+    "$oid": "66afcfd44e3b6f5c8aa0763b"
+  },
+  "name": "Winter & Seasonal Wear",
+  "parent_id": {
+    "$oid": "66afcfc74e3b6f5c8aa07610"
+  },
+  "priceRange": {
+    "min": 392,
+    "max": 4999
+  },
+  "__v": 0,
+  "itemsSold": 738,
+  "productsCount": 14
+},
+{
+  "_id": {
+    "$oid": "66afcfd84e3b6f5c8aa07671"
+  },
+  "name": "Furniture",
+  "parent_id": null,
+  "priceRange": {
+    "min": 5499,
+    "max": 162000
+  },
+  "__v": 0,
+  "itemsSold": 2214,
+  "productsCount": 44
+},
+{
+  "_id": {
+    "$oid": "66afcfd84e3b6f5c8aa0766f"
+  },
+  "name": "Living Room",
+  "parent_id": {
+    "$oid": "66afcfd84e3b6f5c8aa07671"
+  },
+  "priceRange": {
+    "min": 5499,
+    "max": 162000
+  },
+  "__v": 0,
+  "itemsSold": 2214,
+  "productsCount": 44
+},
+{
+  "_id": {
+    "$oid": "66afcfe14e3b6f5c8aa076bd"
+  },
+  "name": "Suits & Blazers",
+  "parent_id": {
+    "$oid": "66afcfc74e3b6f5c8aa07610"
+  },
+  "priceRange": {
+    "min": 3495,
+    "max": 8995
+  },
+  "__v": 0,
+  "itemsSold": 455,
+  "productsCount": 9
+},
+{
+  "_id": {
+    "$oid": "66afcfe34e3b6f5c8aa076f2"
+  },
+  "name": "Kids' & Infant Footwear",
+  "parent_id": {
+    "$oid": "66afcfba4e3b6f5c8aa075a1"
+  },
+  "priceRange": {
+    "min": 200,
+    "max": 1995
+  },
+  "__v": 0,
+  "itemsSold": 2706,
+  "productsCount": 51
+},
+{
+  "_id": {
+    "$oid": "66afcfe34e3b6f5c8aa076f1"
+  },
+  "name": "For Girls",
+  "parent_id": {
+    "$oid": "66afcfe34e3b6f5c8aa076f2"
+  },
+  "priceRange": {
+    "min": 399,
+    "max": 1499
+  },
+  "__v": 0,
+  "itemsSold": 837,
+  "productsCount": 15
+},
+{
+  "_id": {
+    "$oid": "66afcfe54e3b6f5c8aa07713"
+  },
+  "name": "For Boys",
+  "parent_id": {
+    "$oid": "66afcfe34e3b6f5c8aa076f2"
+  },
+  "priceRange": {
+    "min": 200,
+    "max": 1995
+  },
+  "__v": 0,
+  "itemsSold": 1869,
+  "productsCount": 36
+},
+{
+  "_id": {
+    "$oid": "66afcfe74e3b6f5c8aa07741"
+  },
+  "name": "Western Wear",
+  "parent_id": {
+    "$oid": "66afcfb84e3b6f5c8aa0757e"
+  },
+  "priceRange": {
+    "min": 399,
+    "max": 12500
+  },
+  "__v": 0,
+  "itemsSold": 17862,
+  "productsCount": 347
+},
+{
+  "_id": {
+    "$oid": "66afcff04e3b6f5c8aa077ed"
+  },
+  "name": "Men's Footwear",
+  "parent_id": {
+    "$oid": "66afcfba4e3b6f5c8aa075a1"
+  },
+  "priceRange": {
+    "min": 169,
+    "max": 3499
+  },
+  "__v": 0,
+  "itemsSold": 1110,
+  "productsCount": 26
+},
+{
+  "_id": {
+    "$oid": "66afcff04e3b6f5c8aa077ee"
+  },
+  "name": "Slippers & Flip Flops",
+  "parent_id": {
+    "$oid": "66afcff04e3b6f5c8aa077ed"
+  },
+  "priceRange": {
+    "min": 169,
+    "max": 3499
+  },
+  "__v": 0,
+  "itemsSold": 841,
+  "productsCount": 19
+},
+{
+  "_id": {
+    "$oid": "66afcff74e3b6f5c8aa0784d"
+  },
+  "name": "Sports Wear",
+  "parent_id": {
+    "$oid": "66afcfc74e3b6f5c8aa07610"
+  },
+  "priceRange": {
+    "min": 450,
+    "max": 20663
+  },
+  "__v": 0,
+  "itemsSold": 439,
+  "productsCount": 9
+},
+{
+  "_id": {
+    "$oid": "66afcff94e3b6f5c8aa0787c"
+  },
+  "name": "Wedges",
+  "parent_id": {
+    "$oid": "66afcfba4e3b6f5c8aa075a2"
+  },
+  "priceRange": {
+    "min": 499,
+    "max": 1790
+  },
+  "__v": 0,
+  "itemsSold": 695,
+  "productsCount": 14
+},
+{
+  "_id": {
+    "$oid": "66afcffd4e3b6f5c8aa078b5"
+  },
+  "name": "Sports Sandals",
+  "parent_id": {
+    "$oid": "66afcfba4e3b6f5c8aa075a2"
+  },
+  "priceRange": {
+    "min": 499,
+    "max": 2599
+  },
+  "__v": 0,
+  "itemsSold": 470,
+  "productsCount": 9
+},
+{
+  "_id": {
+    "$oid": "66afcfff4e3b6f5c8aa078e4"
+  },
+  "name": "Bags",
+  "parent_id": {
+    "$oid": "66afcfd34e3b6f5c8aa07629"
+  },
+  "priceRange": {
+    "min": 499,
+    "max": 8400
+  },
+  "__v": 0,
+  "itemsSold": 1405,
+  "productsCount": 31
+},
+{
+  "_id": {
+    "$oid": "66afcfff4e3b6f5c8aa078e3"
+  },
+  "name": "Hand Bags",
+  "parent_id": {
+    "$oid": "66afcfff4e3b6f5c8aa078e4"
+  },
+  "priceRange": {
+    "min": 499,
+    "max": 8400
+  },
+  "__v": 0,
+  "itemsSold": 959,
+  "productsCount": 24
+},
+{
+  "_id": {
+    "$oid": "66afd0004e3b6f5c8aa078f4"
+  },
+  "name": "Baby Girls' Clothes",
+  "parent_id": {
+    "$oid": "66afcfc74e3b6f5c8aa075fe"
+  },
+  "priceRange": {
+    "min": 499,
+    "max": 2999
+  },
+  "__v": 0,
+  "itemsSold": 296,
+  "productsCount": 7
+},
+{
+  "_id": {
+    "$oid": "66afd0034e3b6f5c8aa0792e"
+  },
+  "name": "Kids' Clothing",
+  "parent_id": {
+    "$oid": "66afcfb84e3b6f5c8aa0757f"
+  },
+  "priceRange": {
+    "min": 399,
+    "max": 4099
+  },
+  "__v": 0,
+  "itemsSold": 1857,
+  "productsCount": 50
+},
+{
+  "_id": {
+    "$oid": "66afd0044e3b6f5c8aa0793f"
+  },
+  "name": "Ethnic Wear",
+  "parent_id": {
+    "$oid": "66afcfc74e3b6f5c8aa07610"
+  },
+  "priceRange": {
+    "min": 399,
+    "max": 14999
+  },
+  "__v": 0,
+  "itemsSold": 650,
+  "productsCount": 14
+},
+{
+  "_id": {
+    "$oid": "66afd0074e3b6f5c8aa07970"
+  },
+  "name": "Fusion Wear",
+  "parent_id": {
+    "$oid": "66afcfb84e3b6f5c8aa0757e"
+  },
+  "priceRange": {
+    "min": 1000,
+    "max": 9250
+  },
+  "__v": 0,
+  "itemsSold": 477,
+  "productsCount": 12
+},
+{
+  "_id": {
+    "$oid": "66afd00b4e3b6f5c8aa079cb"
+  },
+  "name": "Heels",
+  "parent_id": {
+    "$oid": "66afcfba4e3b6f5c8aa075a2"
+  },
+  "priceRange": {
+    "min": 899,
+    "max": 4799
+  },
+  "__v": 0,
+  "itemsSold": 944,
+  "productsCount": 20
+},
+{
+  "_id": {
+    "$oid": "66afd00f4e3b6f5c8aa079fa"
+  },
+  "name": "Girls Wear",
+  "parent_id": {
+    "$oid": "66afd0034e3b6f5c8aa0792e"
+  },
+  "priceRange": {
+    "min": 499,
+    "max": 4099
+  },
+  "__v": 0,
+  "itemsSold": 1058,
+  "productsCount": 27
+},
+{
+  "_id": {
+    "$oid": "66afd0124e3b6f5c8aa07a28"
+  },
+  "name": "Jewellery",
+  "parent_id": null,
+  "priceRange": {
+    "min": 299,
+    "max": 33659
+  },
+  "__v": 0,
+  "itemsSold": 3397,
+  "productsCount": 67
+},
+{
+  "_id": {
+    "$oid": "66afd0124e3b6f5c8aa07a2a"
+  },
+  "name": "Bangles, Bracelets & Armlets",
+  "parent_id": {
+    "$oid": "66afd0124e3b6f5c8aa07a28"
+  },
+  "priceRange": {
+    "min": 399,
+    "max": 33659
+  },
+  "__v": 0,
+  "itemsSold": 1505,
+  "productsCount": 32
+},
+{
+  "_id": {
+    "$oid": "66afd0124e3b6f5c8aa07a29"
+  },
+  "name": "Bracelets",
+  "parent_id": {
+    "$oid": "66afd0124e3b6f5c8aa07a2a"
+  },
+  "priceRange": {
+    "min": 399,
+    "max": 33659
+  },
+  "__v": 0,
+  "itemsSold": 879,
+  "productsCount": 21
+},
+{
+  "_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a77"
+  },
+  "name": "Home Furnishing",
+  "parent_id": null,
+  "priceRange": {
+    "min": 700,
+    "max": 3499
+  },
+  "__v": 0,
+  "itemsSold": 961,
+  "productsCount": 16
+},
+{
+  "_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a78"
+  },
+  "name": "Bed Linen",
+  "parent_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a77"
+  },
+  "priceRange": {
+    "min": 700,
+    "max": 3499
+  },
+  "__v": 0,
+  "itemsSold": 359,
+  "productsCount": 7
+},
+{
+  "_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a76"
+  },
+  "name": "Blankets, Quilts & Dohars",
+  "parent_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a78"
+  },
+  "priceRange": {
+    "min": 700,
+    "max": 3499
+  },
+  "__v": 0,
+  "itemsSold": 359,
+  "productsCount": 7
+},
+{
+  "_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a8a"
+  },
+  "name": "Mobiles & Accessories",
+  "parent_id": null,
+  "priceRange": {
+    "min": 499,
+    "max": 3614
+  },
+  "__v": 0,
+  "itemsSold": 1861,
+  "productsCount": 32
+},
+{
+  "_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a89"
+  },
+  "name": "Tablet Accessories",
+  "parent_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a8a"
+  },
+  "priceRange": {
+    "min": 599,
+    "max": 3614
+  },
+  "__v": 0,
+  "itemsSold": 1555,
+  "productsCount": 27
+},
+{
+  "_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a88"
+  },
+  "name": "Cases & Covers",
+  "parent_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a89"
+  },
+  "priceRange": {
+    "min": 599,
+    "max": 3614
+  },
+  "__v": 0,
+  "itemsSold": 1555,
+  "productsCount": 27
+},
+{
+  "_id": {
+    "$oid": "66afd0284e3b6f5c8aa07b06"
+  },
+  "name": "Inner Wear & Sleep Wear",
+  "parent_id": {
+    "$oid": "66afcfc74e3b6f5c8aa07610"
+  },
+  "priceRange": {
+    "min": 499,
+    "max": 1999
+  },
+  "__v": 0,
+  "itemsSold": 640,
+  "productsCount": 18
+},
+{
+  "_id": {
+    "$oid": "66afd0de4e3b6f5c8aa081af"
+  },
+  "name": "Boys Wear",
+  "parent_id": {
+    "$oid": "66afd0034e3b6f5c8aa0792e"
+  },
+  "priceRange": {
+    "min": 399,
+    "max": 3999
+  },
+  "__v": 0,
+  "itemsSold": 700,
+  "productsCount": 19
+},
+{
+  "_id": {
+    "$oid": "66afd1234e3b6f5c8aa08454"
+  },
+  "name": "Automotive",
+  "parent_id": null,
+  "priceRange": {
+    "min": 499,
+    "max": 5500
+  },
+  "__v": 0,
+  "itemsSold": 2139,
+  "productsCount": 39
+},
+{
+  "_id": {
+    "$oid": "66afd1234e3b6f5c8aa08453"
+  },
+  "name": "Accessories & Spare parts",
+  "parent_id": {
+    "$oid": "66afd1234e3b6f5c8aa08454"
+  },
+  "priceRange": {
+    "min": 499,
+    "max": 5500
+  },
+  "__v": 0,
+  "itemsSold": 2139,
+  "productsCount": 39
+},
+{
+  "_id": {
+    "$oid": "66afd1234e3b6f5c8aa08455"
+  },
+  "name": "Car Interior & Exterior",
+  "parent_id": {
+    "$oid": "66afd1234e3b6f5c8aa08453"
+  },
+  "priceRange": {
+    "min": 2000,
+    "max": 5500
+  },
+  "__v": 0,
+  "itemsSold": 1867,
+  "productsCount": 33
+},
+{
+  "_id": {
+    "$oid": "66afd12d4e3b6f5c8aa084f5"
+  },
+  "name": "Necklaces & Chains",
+  "parent_id": {
+    "$oid": "66afd0124e3b6f5c8aa07a28"
+  },
+  "priceRange": {
+    "min": 299,
+    "max": 1799
+  },
+  "__v": 0,
+  "itemsSold": 1694,
+  "productsCount": 32
+},
+{
+  "_id": {
+    "$oid": "66afd12d4e3b6f5c8aa084f6"
+  },
+  "name": "Necklaces",
+  "parent_id": {
+    "$oid": "66afd12d4e3b6f5c8aa084f5"
+  },
+  "priceRange": {
+    "min": 299,
+    "max": 1799
+  },
+  "__v": 0,
+  "itemsSold": 1694,
+  "productsCount": 32
+},
+{
+  "_id": {
+    "$oid": "66afd1384e3b6f5c8aa08584"
+  },
+  "name": "Car Electronics & Accessories",
+  "parent_id": {
+    "$oid": "66afd1234e3b6f5c8aa08453"
+  },
+  "priceRange": {
+    "min": 499,
+    "max": 1799
+  },
+  "__v": 0,
+  "itemsSold": 272,
+  "productsCount": 6
+},
+{
+  "_id": {
+    "$oid": "66afd1754e3b6f5c8aa08890"
+  },
+  "name": "Computers",
+  "parent_id": null,
+  "priceRange": {
+    "min": 299,
+    "max": 15999
+  },
+  "__v": 0,
+  "itemsSold": 1471,
+  "productsCount": 29
+},
+{
+  "_id": {
+    "$oid": "66afd1754e3b6f5c8aa08891"
+  },
+  "name": "Network Components",
+  "parent_id": {
+    "$oid": "66afd1754e3b6f5c8aa08890"
+  },
+  "priceRange": {
+    "min": 1199,
+    "max": 15999
+  },
+  "__v": 0,
+  "itemsSold": 1128,
+  "productsCount": 24
+},
+{
+  "_id": {
+    "$oid": "66afd1754e3b6f5c8aa08892"
+  },
+  "name": "Routers",
+  "parent_id": {
+    "$oid": "66afd1754e3b6f5c8aa08891"
+  },
+  "priceRange": {
+    "min": 1199,
+    "max": 15999
+  },
+  "__v": 0,
+  "itemsSold": 1128,
+  "productsCount": 24
+},
+{
+  "_id": {
+    "$oid": "66afd1b84e3b6f5c8aa08be6"
+  },
+  "name": "Sandals & Floaters",
+  "parent_id": {
+    "$oid": "66afcff04e3b6f5c8aa077ed"
+  },
+  "priceRange": {
+    "min": 499,
+    "max": 2295
+  },
+  "__v": 0,
+  "itemsSold": 149,
+  "productsCount": 5
+},
+{
+  "_id": {
+    "$oid": "66afd1e74e3b6f5c8aa08df3"
+  },
+  "name": "Tools & Hardware",
+  "parent_id": null,
+  "priceRange": {
+    "min": 343,
+    "max": 2400
+  },
+  "__v": 0,
+  "itemsSold": 1760,
+  "productsCount": 34
+},
+{
+  "_id": {
+    "$oid": "66afd1e74e3b6f5c8aa08df1"
+  },
+  "name": "Tools",
+  "parent_id": {
+    "$oid": "66afd1e74e3b6f5c8aa08df3"
+  },
+  "priceRange": {
+    "min": 343,
+    "max": 2400
+  },
+  "__v": 0,
+  "itemsSold": 1760,
+  "productsCount": 34
+},
+{
+  "_id": {
+    "$oid": "66afd1e74e3b6f5c8aa08df2"
+  },
+  "name": "Gardening Tools",
+  "parent_id": {
+    "$oid": "66afd1e74e3b6f5c8aa08df1"
+  },
+  "priceRange": {
+    "min": 400,
+    "max": 2400
+  },
+  "__v": 0,
+  "itemsSold": 1693,
+  "productsCount": 32
+},
+{
+  "_id": {
+    "$oid": "66afd2094e3b6f5c8aa08f4a"
+  },
+  "name": "Bangles",
+  "parent_id": {
+    "$oid": "66afd0124e3b6f5c8aa07a2a"
+  },
+  "priceRange": {
+    "min": 680,
+    "max": 1300
+  },
+  "__v": 0,
+  "itemsSold": 626,
+  "productsCount": 11
+},
+{
+  "_id": {
+    "$oid": "66afd2274e3b6f5c8aa08f96"
+  },
+  "name": "Flats",
+  "parent_id": {
+    "$oid": "66afcfba4e3b6f5c8aa075a2"
+  },
+  "priceRange": {
+    "min": 999,
+    "max": 2500
+  },
+  "__v": 0,
+  "itemsSold": 222,
+  "productsCount": 5
+},
+{
+  "_id": {
+    "$oid": "66afd27f4e3b6f5c8aa0914b"
+  },
+  "name": "Fitness Accessories",
+  "parent_id": {
+    "$oid": "66afcfe24e3b6f5c8aa076e0"
+  },
+  "priceRange": {
+    "min": 803,
+    "max": 2582
+  },
+  "__v": 0,
+  "itemsSold": 173,
+  "productsCount": 6
+},
+{
+  "_id": {
+    "$oid": "66afd2aa4e3b6f5c8aa092dd"
+  },
+  "name": "Mats",
+  "parent_id": {
+    "$oid": "66afd27f4e3b6f5c8aa0914b"
+  },
+  "priceRange": {
+    "min": 803,
+    "max": 2582
+  },
+  "__v": 0,
+  "itemsSold": 124,
+  "productsCount": 5
+},
+{
+  "_id": {
+    "$oid": "66afd2c54e3b6f5c8aa093d7"
+  },
+  "name": "Health & Personal Care Appliances",
+  "parent_id": null,
+  "priceRange": {
+    "min": 1395,
+    "max": 12681
+  },
+  "__v": 0,
+  "itemsSold": 329,
+  "productsCount": 9
+},
+{
+  "_id": {
+    "$oid": "66afd2c54e3b6f5c8aa093d5"
+  },
+  "name": "Personal Care Appliances",
+  "parent_id": {
+    "$oid": "66afd2c54e3b6f5c8aa093d7"
+  },
+  "priceRange": {
+    "min": 1395,
+    "max": 12681
+  },
+  "__v": 0,
+  "itemsSold": 329,
+  "productsCount": 9
+},
+{
+  "_id": {
+    "$oid": "66afd2c54e3b6f5c8aa093d6"
+  },
+  "name": "Hair Dryers",
+  "parent_id": {
+    "$oid": "66afd2c54e3b6f5c8aa093d5"
+  },
+  "priceRange": {
+    "min": 4045,
+    "max": 12681
+  },
+  "__v": 0,
+  "itemsSold": 252,
+  "productsCount": 7
+},
+{
+  "_id": {
+    "$oid": "66afd2d84e3b6f5c8aa0948d"
+  },
+  "name": "Sofas & Sectionals",
+  "parent_id": {
+    "$oid": "66afcfd84e3b6f5c8aa0766f"
+  },
+  "priceRange": {
+    "min": 13400,
+    "max": 162000
+  },
+  "__v": 0,
+  "itemsSold": 2164,
+  "productsCount": 43
+},
+{
+  "_id": {
+    "$oid": "66afd4f24e3b6f5c8aa0a27e"
+  },
+  "name": "Cushions, Pillows & Covers",
+  "parent_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a77"
+  },
+  "priceRange": {
+    "min": 899,
+    "max": 2399
+  },
+  "__v": 0,
+  "itemsSold": 543,
+  "productsCount": 8
+},
+{
+  "_id": {
+    "$oid": "66afd4f24e3b6f5c8aa0a27f"
+  },
+  "name": "Cushion Covers",
+  "parent_id": {
+    "$oid": "66afd4f24e3b6f5c8aa0a27e"
+  },
+  "priceRange": {
+    "min": 899,
+    "max": 2399
+  },
+  "__v": 0,
+  "itemsSold": 543,
+  "productsCount": 8
+},
+{
+  "_id": {
+    "$oid": "66afd52a4e3b6f5c8aa0a41b"
+  },
+  "name": "Cameras & Accessories",
+  "parent_id": null,
+  "priceRange": {
+    "min": 725,
+    "max": 3425
+  },
+  "__v": 0,
+  "itemsSold": 421,
+  "productsCount": 7
+},
+{
+  "_id": {
+    "$oid": "66afd52a4e3b6f5c8aa0a41c"
+  },
+  "name": "Camera Accessories",
+  "parent_id": {
+    "$oid": "66afd52a4e3b6f5c8aa0a41b"
+  },
+  "priceRange": {
+    "min": 725,
+    "max": 3425
+  },
+  "__v": 0,
+  "itemsSold": 421,
+  "productsCount": 7
+},
+{
+  "_id": {
+    "$oid": "66afd52a4e3b6f5c8aa0a41a"
+  },
+  "name": "Lens Hoods",
+  "parent_id": {
+    "$oid": "66afd52a4e3b6f5c8aa0a41c"
+  },
+  "priceRange": {
+    "min": 725,
+    "max": 3425
+  },
+  "__v": 0,
+  "itemsSold": 421,
+  "productsCount": 7
+},
+{
+  "_id": {
+    "$oid": "66afd5384e3b6f5c8aa0a46b"
+  },
+  "name": "Laptop Accessories",
+  "parent_id": {
+    "$oid": "66afd1754e3b6f5c8aa08890"
+  },
+  "priceRange": {
+    "min": 299,
+    "max": 2490
+  },
+  "__v": 0,
+  "itemsSold": 343,
+  "productsCount": 5
+},
+{
+  "_id": {
+    "$oid": "66afd5384e3b6f5c8aa0a46c"
+  },
+  "name": "USB Gadgets",
+  "parent_id": {
+    "$oid": "66afd5384e3b6f5c8aa0a46b"
+  },
+  "priceRange": {
+    "min": 299,
+    "max": 2490
+  },
+  "__v": 0,
+  "itemsSold": 343,
+  "productsCount": 5
+}]

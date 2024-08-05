@@ -1,0 +1,1118 @@
+[
+    {
+        "_id": {
+            "$oid": "66adb133a9805af7a920decb"
+        },
+        "name": "Clothing",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 210,
+            "max": 20663
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb133a9805af7a920dec9"
+        },
+        "name": "Women's Clothing",
+        "parent_id": {
+            "$oid": "66adb133a9805af7a920decb"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 210,
+            "max": 9250
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb133a9805af7a920deca"
+        },
+        "name": "Lingerie, Sleep & Swimwear",
+        "parent_id": {
+            "$oid": "66adb133a9805af7a920dec9"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 210,
+            "max": 1995
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb135a9805af7a920deed"
+        },
+        "name": "Footwear",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 169,
+            "max": 3499
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb135a9805af7a920deee"
+        },
+        "name": "Women's Footwear",
+        "parent_id": {
+            "$oid": "66adb135a9805af7a920deed"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 169,
+            "max": 1999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb135a9805af7a920deef"
+        },
+        "name": "Ballerinas",
+        "parent_id": {
+            "$oid": "66adb135a9805af7a920deee"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 699,
+            "max": 1724
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb136a9805af7a920df00"
+        },
+        "name": "Pens & Stationery",
+        "parent_id": null,
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "66adb136a9805af7a920df01"
+        },
+        "name": "School Supplies",
+        "parent_id": {
+            "$oid": "66adb17ba9805af7a920e27c"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 699,
+            "max": 2999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb136a9805af7a920deff"
+        },
+        "name": "Water Bottles",
+        "parent_id": {
+            "$oid": "66adb136a9805af7a920df01"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 699,
+            "max": 699
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb138a9805af7a920df29"
+        },
+        "name": "Formal Wear",
+        "parent_id": {
+            "$oid": "66adb133a9805af7a920dec9"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 899,
+            "max": 2695
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb139a9805af7a920df39"
+        },
+        "name": "Casual Shoes",
+        "parent_id": {
+            "$oid": "66adb16ca9805af7a920e1c4"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 499,
+            "max": 3499
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb13fa9805af7a920df4a"
+        },
+        "name": "Baby Care",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 499,
+            "max": 999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb13fa9805af7a920df49"
+        },
+        "name": "Infant Wear",
+        "parent_id": {
+            "$oid": "66adb13fa9805af7a920df4a"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 499,
+            "max": 999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb13fa9805af7a920df4b"
+        },
+        "name": "Baby Boys' Clothes",
+        "parent_id": {
+            "$oid": "66adb13fa9805af7a920df49"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 899,
+            "max": 999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb140a9805af7a920df5b"
+        },
+        "name": "Men's Clothing",
+        "parent_id": {
+            "$oid": "66adb133a9805af7a920decb"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 699,
+            "max": 20663
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb140a9805af7a920df5c"
+        },
+        "name": "Shirts",
+        "parent_id": {
+            "$oid": "66adb140a9805af7a920df5b"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 750,
+            "max": 2099
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb142a9805af7a920df6f"
+        },
+        "name": "Jeans",
+        "parent_id": {
+            "$oid": "66adb140a9805af7a920df5b"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 2499,
+            "max": 5398
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb14ba9805af7a920dfac"
+        },
+        "name": "Bags, Wallets & Belts",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 899,
+            "max": 8400
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb14ba9805af7a920dfae"
+        },
+        "name": "Wallets & Clutches",
+        "parent_id": {
+            "$oid": "66adb14ba9805af7a920dfac"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1899,
+            "max": 1899
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb14ba9805af7a920dfad"
+        },
+        "name": "Clutches",
+        "parent_id": {
+            "$oid": "66adb14ba9805af7a920dfae"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1899,
+            "max": 1899
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb14ba9805af7a920dfbe"
+        },
+        "name": "Winter & Seasonal Wear",
+        "parent_id": {
+            "$oid": "66adb133a9805af7a920dec9"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 4995,
+            "max": 4999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb14fa9805af7a920dff4"
+        },
+        "name": "Furniture",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 5499,
+            "max": 5499
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb14fa9805af7a920dff3"
+        },
+        "name": "Living Room",
+        "parent_id": {
+            "$oid": "66adb14fa9805af7a920dff4"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 5499,
+            "max": 5499
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb14fa9805af7a920dff2"
+        },
+        "name": "Display Units",
+        "parent_id": {
+            "$oid": "66adb14fa9805af7a920dff3"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 5499,
+            "max": 5499
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb156a9805af7a920e040"
+        },
+        "name": "Suits & Blazers",
+        "parent_id": {
+            "$oid": "66adb140a9805af7a920df5b"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 3999,
+            "max": 3999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb156a9805af7a920e052"
+        },
+        "name": "Home Decor & Festive Needs",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 499,
+            "max": 9200
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb156a9805af7a920e050"
+        },
+        "name": "Showpieces",
+        "parent_id": {
+            "$oid": "66adb156a9805af7a920e052"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 2081,
+            "max": 9200
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb156a9805af7a920e051"
+        },
+        "name": "Sunrise Showpieces",
+        "parent_id": {
+            "$oid": "66adb156a9805af7a920e050"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 2081,
+            "max": 2081
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb157a9805af7a920e062"
+        },
+        "name": "Sports & Fitness",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 4999,
+            "max": 4999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb157a9805af7a920e064"
+        },
+        "name": "Other Sports",
+        "parent_id": {
+            "$oid": "66adb157a9805af7a920e062"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 4999,
+            "max": 4999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb157a9805af7a920e063"
+        },
+        "name": "Golf",
+        "parent_id": {
+            "$oid": "66adb157a9805af7a920e064"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 4999,
+            "max": 4999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb158a9805af7a920e074"
+        },
+        "name": "Kids' & Infant Footwear",
+        "parent_id": {
+            "$oid": "66adb135a9805af7a920deed"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 259,
+            "max": 1995
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb158a9805af7a920e075"
+        },
+        "name": "For Girls",
+        "parent_id": {
+            "$oid": "66adb158a9805af7a920e074"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1245,
+            "max": 1245
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb158a9805af7a920e085"
+        },
+        "name": "Candles & Fragrances",
+        "parent_id": {
+            "$oid": "66adb156a9805af7a920e052"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 749,
+            "max": 749
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb158a9805af7a920e086"
+        },
+        "name": "Home Fragrances",
+        "parent_id": {
+            "$oid": "66adb158a9805af7a920e085"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 749,
+            "max": 749
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb159a9805af7a920e096"
+        },
+        "name": "For Boys",
+        "parent_id": {
+            "$oid": "66adb158a9805af7a920e074"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 259,
+            "max": 1995
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb15ba9805af7a920e0c4"
+        },
+        "name": "Western Wear",
+        "parent_id": {
+            "$oid": "66adb133a9805af7a920dec9"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 499,
+            "max": 3199
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb16ca9805af7a920e1c4"
+        },
+        "name": "Men's Footwear",
+        "parent_id": {
+            "$oid": "66adb135a9805af7a920deed"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 499,
+            "max": 3499
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb16ca9805af7a920e1c5"
+        },
+        "name": "Slippers & Flip Flops",
+        "parent_id": {
+            "$oid": "66adb135a9805af7a920deee"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 169,
+            "max": 1999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb170a9805af7a920e1e7"
+        },
+        "name": "Boots",
+        "parent_id": {
+            "$oid": "66adb135a9805af7a920deee"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1199,
+            "max": 1699
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb177a9805af7a920e233"
+        },
+        "name": "Sports Wear",
+        "parent_id": {
+            "$oid": "66adb140a9805af7a920df5b"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 699,
+            "max": 20663
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb178a9805af7a920e252"
+        },
+        "name": "Trousers",
+        "parent_id": {
+            "$oid": "66adb140a9805af7a920df5b"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1199,
+            "max": 1199
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb179a9805af7a920e262"
+        },
+        "name": "Wedges",
+        "parent_id": {
+            "$oid": "66adb135a9805af7a920deee"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1690,
+            "max": 1790
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb17ba9805af7a920e27c"
+        },
+        "name": "Toys & School Supplies",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 699,
+            "max": 2999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb17ba9805af7a920e27b"
+        },
+        "name": "School Bags",
+        "parent_id": {
+            "$oid": "66adb136a9805af7a920df01"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 899,
+            "max": 2999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb17ea9805af7a920e29b"
+        },
+        "name": "Sports Sandals",
+        "parent_id": {
+            "$oid": "66adb135a9805af7a920deee"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 499,
+            "max": 1055
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb180a9805af7a920e2ca"
+        },
+        "name": "Bags",
+        "parent_id": {
+            "$oid": "66adb14ba9805af7a920dfac"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 899,
+            "max": 8400
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb180a9805af7a920e2c9"
+        },
+        "name": "Hand Bags",
+        "parent_id": {
+            "$oid": "66adb180a9805af7a920e2ca"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 899,
+            "max": 8400
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb181a9805af7a920e2da"
+        },
+        "name": "Baby Girls' Clothes",
+        "parent_id": {
+            "$oid": "66adb13fa9805af7a920df49"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 499,
+            "max": 649
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb187a9805af7a920e315"
+        },
+        "name": "Kids' Clothing",
+        "parent_id": {
+            "$oid": "66adb133a9805af7a920decb"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 399,
+            "max": 2295
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb187a9805af7a920e314"
+        },
+        "name": "Infants Wear",
+        "parent_id": {
+            "$oid": "66adb187a9805af7a920e315"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1299,
+            "max": 1299
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb188a9805af7a920e325"
+        },
+        "name": "Girls Wear",
+        "parent_id": {
+            "$oid": "66adb187a9805af7a920e315"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 499,
+            "max": 1599
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb189a9805af7a920e335"
+        },
+        "name": "Ethnic Wear",
+        "parent_id": {
+            "$oid": "66adb133a9805af7a920dec9"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1250,
+            "max": 4999
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb18ba9805af7a920e355"
+        },
+        "name": "Kitchen & Dining",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 750,
+            "max": 2832
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb18ba9805af7a920e354"
+        },
+        "name": "Dinnerware & Crockery",
+        "parent_id": {
+            "$oid": "66adb18ba9805af7a920e355"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 2832,
+            "max": 2832
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb18ba9805af7a920e356"
+        },
+        "name": "Cups & Saucers",
+        "parent_id": {
+            "$oid": "66adb18ba9805af7a920e354"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 2832,
+            "max": 2832
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb18ca9805af7a920e366"
+        },
+        "name": "Fusion Wear",
+        "parent_id": {
+            "$oid": "66adb133a9805af7a920dec9"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1000,
+            "max": 9250
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb192a9805af7a920e3c1"
+        },
+        "name": "Heels",
+        "parent_id": {
+            "$oid": "66adb135a9805af7a920deee"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1899,
+            "max": 1899
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb193a9805af7a920e3d1"
+        },
+        "name": "Formal Shoes",
+        "parent_id": {
+            "$oid": "66adb16ca9805af7a920e1c4"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 840,
+            "max": 2199
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb198a9805af7a920e41f"
+        },
+        "name": "Jewellery",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 299,
+            "max": 1799
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb198a9805af7a920e41d"
+        },
+        "name": "Bangles, Bracelets & Armlets",
+        "parent_id": {
+            "$oid": "66adb198a9805af7a920e41f"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 399,
+            "max": 649
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb198a9805af7a920e41e"
+        },
+        "name": "Bracelets",
+        "parent_id": {
+            "$oid": "66adb198a9805af7a920e41d"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 399,
+            "max": 649
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb19ea9805af7a920e465"
+        },
+        "name": "Home Furnishing",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 1499,
+            "max": 1499
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb19ea9805af7a920e467"
+        },
+        "name": "Bed Linen",
+        "parent_id": {
+            "$oid": "66adb19ea9805af7a920e465"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1499,
+            "max": 1499
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb19ea9805af7a920e466"
+        },
+        "name": "Blankets, Quilts & Dohars",
+        "parent_id": {
+            "$oid": "66adb19ea9805af7a920e467"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1499,
+            "max": 1499
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb19fa9805af7a920e478"
+        },
+        "name": "Mobiles & Accessories",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 1499,
+            "max": 1990
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb19fa9805af7a920e477"
+        },
+        "name": "Tablet Accessories",
+        "parent_id": {
+            "$oid": "66adb19fa9805af7a920e478"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1499,
+            "max": 1990
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb19fa9805af7a920e479"
+        },
+        "name": "Cases & Covers",
+        "parent_id": {
+            "$oid": "66adb19fa9805af7a920e477"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 1499,
+            "max": 1990
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb1ada9805af7a920e4f5"
+        },
+        "name": "Inner Wear & Sleep Wear",
+        "parent_id": {
+            "$oid": "66adb140a9805af7a920df5b"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 999,
+            "max": 1400
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb293a9805af7a920f0c3"
+        },
+        "name": "Boys Wear",
+        "parent_id": {
+            "$oid": "66adb187a9805af7a920e315"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 399,
+            "max": 2295
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb2aaa9805af7a920f1f9"
+        },
+        "name": "Table Decor & Handicrafts",
+        "parent_id": {
+            "$oid": "66adb156a9805af7a920e052"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 499,
+            "max": 499
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb2c4a9805af7a920f3b3"
+        },
+        "name": "Table Decor",
+        "parent_id": {
+            "$oid": "66adb2aaa9805af7a920f1f9"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 499,
+            "max": 499
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb2c5a9805af7a920f3c3"
+        },
+        "name": "Ethnic",
+        "parent_id": {
+            "$oid": "66adb156a9805af7a920e050"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 6800,
+            "max": 9200
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb2c6a9805af7a920f3d4"
+        },
+        "name": "Automotive",
+        "parent_id": null,
+        "__v": 0,
+        "priceRange": {
+            "min": 799,
+            "max": 3500
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb2c6a9805af7a920f3d5"
+        },
+        "name": "Accessories & Spare parts",
+        "parent_id": {
+            "$oid": "66adb2c6a9805af7a920f3d4"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 799,
+            "max": 3500
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb2c6a9805af7a920f3d3"
+        },
+        "name": "Car Interior & Exterior",
+        "parent_id": {
+            "$oid": "66adb2c6a9805af7a920f3d5"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 2250,
+            "max": 3500
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb2c8a9805af7a920f406"
+        },
+        "name": "Ninety One Degree Showpieces",
+        "parent_id": {
+            "$oid": "66adb156a9805af7a920e050"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 4500,
+            "max": 4500
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb2cea9805af7a920f45b"
+        },
+        "name": "Kitchen Tools",
+        "parent_id": {
+            "$oid": "66adb18ba9805af7a920e355"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 750,
+            "max": 750
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb2cea9805af7a920f45c"
+        },
+        "name": "Kitchen Implements",
+        "parent_id": {
+            "$oid": "66adb2cea9805af7a920f45b"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 750,
+            "max": 750
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb2d0a9805af7a920f476"
+        },
+        "name": "Necklaces & Chains",
+        "parent_id": {
+            "$oid": "66adb198a9805af7a920e41f"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 299,
+            "max": 1799
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb2d0a9805af7a920f475"
+        },
+        "name": "Necklaces",
+        "parent_id": {
+            "$oid": "66adb2d0a9805af7a920f476"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 299,
+            "max": 1799
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66adb2dba9805af7a920f504"
+        },
+        "name": "Car Electronics & Accessories",
+        "parent_id": {
+            "$oid": "66adb2c6a9805af7a920f3d5"
+        },
+        "__v": 0,
+        "priceRange": {
+            "min": 799,
+            "max": 1799
+        }
+    }
+]

@@ -1,0 +1,7840 @@
+[{
+  "_id": {
+    "$oid": "66afcfb84e3b6f5c8aa07576"
+  },
+  "userId": {
+    "$oid": "66afcfb84e3b6f5c8aa07574"
+  },
+  "brand": "Alisha",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfba4e3b6f5c8aa0759a"
+  },
+  "userId": {
+    "$oid": "66afcfba4e3b6f5c8aa07598"
+  },
+  "brand": "Ladela",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfbb4e3b6f5c8aa075ac"
+  },
+  "userId": {
+    "$oid": "66afcfba4e3b6f5c8aa075aa"
+  },
+  "brand": "Freelance",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfbc4e3b6f5c8aa075c7"
+  },
+  "userId": {
+    "$oid": "66afcfbc4e3b6f5c8aa075c5"
+  },
+  "brand": "Style Foot",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfbd4e3b6f5c8aa075d6"
+  },
+  "userId": {
+    "$oid": "66afcfbc4e3b6f5c8aa075d4"
+  },
+  "brand": "Pick Pocket",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfbd4e3b6f5c8aa075e6"
+  },
+  "userId": {
+    "$oid": "66afcfbd4e3b6f5c8aa075e4"
+  },
+  "brand": "Nuride",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfc74e3b6f5c8aa075f6"
+  },
+  "userId": {
+    "$oid": "66afcfc64e3b6f5c8aa075f4"
+  },
+  "brand": "Babeezworld",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfc74e3b6f5c8aa07608"
+  },
+  "userId": {
+    "$oid": "66afcfc74e3b6f5c8aa07606"
+  },
+  "brand": "Slim",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfd34e3b6f5c8aa07622"
+  },
+  "userId": {
+    "$oid": "66afcfd34e3b6f5c8aa07620"
+  },
+  "brand": "Kleio",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfd44e3b6f5c8aa07634"
+  },
+  "userId": {
+    "$oid": "66afcfd44e3b6f5c8aa07632"
+  },
+  "brand": "Mizuno",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfd84e3b6f5c8aa07668"
+  },
+  "userId": {
+    "$oid": "66afcfd84e3b6f5c8aa07666"
+  },
+  "brand": "Living World by Home Stop",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfd94e3b6f5c8aa0767a"
+  },
+  "userId": {
+    "$oid": "66afcfd94e3b6f5c8aa07678"
+  },
+  "brand": "Regular Fit",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfe14e3b6f5c8aa076b6"
+  },
+  "userId": {
+    "$oid": "66afcfe14e3b6f5c8aa076b4"
+  },
+  "brand": "Raymond",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfe24e3b6f5c8aa076c6"
+  },
+  "userId": {
+    "$oid": "66afcfe14e3b6f5c8aa076c4"
+  },
+  "brand": "Sunrise",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfe24e3b6f5c8aa076d8"
+  },
+  "userId": {
+    "$oid": "66afcfe24e3b6f5c8aa076d6"
+  },
+  "brand": "reckonon",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfe34e3b6f5c8aa076ea"
+  },
+  "userId": {
+    "$oid": "66afcfe34e3b6f5c8aa076e8"
+  },
+  "brand": "Zebra",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfe44e3b6f5c8aa076fb"
+  },
+  "userId": {
+    "$oid": "66afcfe44e3b6f5c8aa076f9"
+  },
+  "brand": "Itiha",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfe44e3b6f5c8aa0770c"
+  },
+  "userId": {
+    "$oid": "66afcfe44e3b6f5c8aa0770a"
+  },
+  "brand": "Crocs",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfe54e3b6f5c8aa0771c"
+  },
+  "userId": {
+    "$oid": "66afcfe54e3b6f5c8aa0771a"
+  },
+  "brand": "V4STYLES",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfe64e3b6f5c8aa0772b"
+  },
+  "userId": {
+    "$oid": "66afcfe64e3b6f5c8aa07729"
+  },
+  "brand": "HANSFOOTNFIT",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfe74e3b6f5c8aa0773a"
+  },
+  "userId": {
+    "$oid": "66afcfe64e3b6f5c8aa07738"
+  },
+  "brand": "Selfiwear",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfe74e3b6f5c8aa0774a"
+  },
+  "userId": {
+    "$oid": "66afcfe74e3b6f5c8aa07748"
+  },
+  "brand": "esoft",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfe94e3b6f5c8aa0776b"
+  },
+  "userId": {
+    "$oid": "66afcfe94e3b6f5c8aa07769"
+  },
+  "brand": "CSBS Sale",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfea4e3b6f5c8aa07783"
+  },
+  "userId": {
+    "$oid": "66afcfea4e3b6f5c8aa07781"
+  },
+  "brand": "FIla",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfeb4e3b6f5c8aa07792"
+  },
+  "userId": {
+    "$oid": "66afcfeb4e3b6f5c8aa07790"
+  },
+  "brand": "INDIANO",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfeb4e3b6f5c8aa077a1"
+  },
+  "userId": {
+    "$oid": "66afcfeb4e3b6f5c8aa0779f"
+  },
+  "brand": "Niremo",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfec4e3b6f5c8aa077b0"
+  },
+  "userId": {
+    "$oid": "66afcfec4e3b6f5c8aa077ae"
+  },
+  "brand": "Lovely Chick",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfed4e3b6f5c8aa077bf"
+  },
+  "userId": {
+    "$oid": "66afcfed4e3b6f5c8aa077bd"
+  },
+  "brand": "Pavers England",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfee4e3b6f5c8aa077ce"
+  },
+  "userId": {
+    "$oid": "66afcfed4e3b6f5c8aa077cc"
+  },
+  "brand": "TAB91",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcff04e3b6f5c8aa077e6"
+  },
+  "userId": {
+    "$oid": "66afcfef4e3b6f5c8aa077e4"
+  },
+  "brand": "Corona",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcff14e3b6f5c8aa07809"
+  },
+  "userId": {
+    "$oid": "66afcff14e3b6f5c8aa07807"
+  },
+  "brand": "Digni",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcff34e3b6f5c8aa07819"
+  },
+  "userId": {
+    "$oid": "66afcff24e3b6f5c8aa07817"
+  },
+  "brand": "Delberto",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcff44e3b6f5c8aa07828"
+  },
+  "userId": {
+    "$oid": "66afcff44e3b6f5c8aa07826"
+  },
+  "brand": "Bootwale",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcff54e3b6f5c8aa07837"
+  },
+  "userId": {
+    "$oid": "66afcff54e3b6f5c8aa07835"
+  },
+  "brand": "CANMP",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcff74e3b6f5c8aa07846"
+  },
+  "userId": {
+    "$oid": "66afcff64e3b6f5c8aa07844"
+  },
+  "brand": "Adidas",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcff74e3b6f5c8aa07856"
+  },
+  "userId": {
+    "$oid": "66afcff74e3b6f5c8aa07854"
+  },
+  "brand": "STREET LONDON",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcff84e3b6f5c8aa07865"
+  },
+  "userId": {
+    "$oid": "66afcff84e3b6f5c8aa07863"
+  },
+  "brand": "Ennoble",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcff94e3b6f5c8aa07875"
+  },
+  "userId": {
+    "$oid": "66afcff94e3b6f5c8aa07873"
+  },
+  "brand": "Inc.5",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcffc4e3b6f5c8aa0788e"
+  },
+  "userId": {
+    "$oid": "66afcffb4e3b6f5c8aa0788c"
+  },
+  "brand": "addee",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcffc4e3b6f5c8aa0789f"
+  },
+  "userId": {
+    "$oid": "66afcffc4e3b6f5c8aa0789d"
+  },
+  "brand": "BURDY",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcffd4e3b6f5c8aa078ae"
+  },
+  "userId": {
+    "$oid": "66afcffd4e3b6f5c8aa078ac"
+  },
+  "brand": "Simitoes",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcffe4e3b6f5c8aa078be"
+  },
+  "userId": {
+    "$oid": "66afcffe4e3b6f5c8aa078bc"
+  },
+  "brand": "Asian",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfff4e3b6f5c8aa078cd"
+  },
+  "userId": {
+    "$oid": "66afcffe4e3b6f5c8aa078cb"
+  },
+  "brand": "VAGON",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afcfff4e3b6f5c8aa078dc"
+  },
+  "userId": {
+    "$oid": "66afcfff4e3b6f5c8aa078da"
+  },
+  "brand": "X-WELL",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0004e3b6f5c8aa078ed"
+  },
+  "userId": {
+    "$oid": "66afd0004e3b6f5c8aa078eb"
+  },
+  "brand": "FS Mini Klub",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0014e3b6f5c8aa078fd"
+  },
+  "userId": {
+    "$oid": "66afd0014e3b6f5c8aa078fb"
+  },
+  "brand": "Speedo",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0034e3b6f5c8aa07927"
+  },
+  "userId": {
+    "$oid": "66afd0034e3b6f5c8aa07925"
+  },
+  "brand": "Mothercare",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0044e3b6f5c8aa07938"
+  },
+  "userId": {
+    "$oid": "66afd0044e3b6f5c8aa07936"
+  },
+  "brand": "fashion bazar",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0054e3b6f5c8aa07948"
+  },
+  "userId": {
+    "$oid": "66afd0054e3b6f5c8aa07946"
+  },
+  "brand": "Philigree",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0064e3b6f5c8aa07957"
+  },
+  "userId": {
+    "$oid": "66afd0064e3b6f5c8aa07955"
+  },
+  "brand": "CraftGhar",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0074e3b6f5c8aa07969"
+  },
+  "userId": {
+    "$oid": "66afd0064e3b6f5c8aa07967"
+  },
+  "brand": "BUMPKIN",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0074e3b6f5c8aa07979"
+  },
+  "userId": {
+    "$oid": "66afd0074e3b6f5c8aa07977"
+  },
+  "brand": "ENTEASE",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0084e3b6f5c8aa07988"
+  },
+  "userId": {
+    "$oid": "66afd0084e3b6f5c8aa07986"
+  },
+  "brand": "Dolphin Product",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0094e3b6f5c8aa07997"
+  },
+  "userId": {
+    "$oid": "66afd0094e3b6f5c8aa07995"
+  },
+  "brand": "Only",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd00a4e3b6f5c8aa079a6"
+  },
+  "userId": {
+    "$oid": "66afd0094e3b6f5c8aa079a4"
+  },
+  "brand": "American Swan",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd00a4e3b6f5c8aa079b5"
+  },
+  "userId": {
+    "$oid": "66afd00a4e3b6f5c8aa079b3"
+  },
+  "brand": "Finger's",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd00b4e3b6f5c8aa079c4"
+  },
+  "userId": {
+    "$oid": "66afd00b4e3b6f5c8aa079c2"
+  },
+  "brand": "Done By None",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd00d4e3b6f5c8aa079d4"
+  },
+  "userId": {
+    "$oid": "66afd00d4e3b6f5c8aa079d2"
+  },
+  "brand": "BrandTrendz",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd00e4e3b6f5c8aa079e4"
+  },
+  "userId": {
+    "$oid": "66afd00e4e3b6f5c8aa079e2"
+  },
+  "brand": "Pruto",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd00f4e3b6f5c8aa079f3"
+  },
+  "userId": {
+    "$oid": "66afd00f4e3b6f5c8aa079f1"
+  },
+  "brand": "URBAN SHAUK",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0104e3b6f5c8aa07a03"
+  },
+  "userId": {
+    "$oid": "66afd00f4e3b6f5c8aa07a01"
+  },
+  "brand": "HugMe.fashion",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0104e3b6f5c8aa07a12"
+  },
+  "userId": {
+    "$oid": "66afd0104e3b6f5c8aa07a10"
+  },
+  "brand": "DWM",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0124e3b6f5c8aa07a21"
+  },
+  "userId": {
+    "$oid": "66afd0114e3b6f5c8aa07a1f"
+  },
+  "brand": "Pearls India",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0124e3b6f5c8aa07a33"
+  },
+  "userId": {
+    "$oid": "66afd0124e3b6f5c8aa07a31"
+  },
+  "brand": "Mrignayaneei",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0144e3b6f5c8aa07a42"
+  },
+  "userId": {
+    "$oid": "66afd0144e3b6f5c8aa07a40"
+  },
+  "brand": "Blissdrizzle",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0154e3b6f5c8aa07a51"
+  },
+  "userId": {
+    "$oid": "66afd0144e3b6f5c8aa07a4f"
+  },
+  "brand": "Jazzup",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0154e3b6f5c8aa07a60"
+  },
+  "userId": {
+    "$oid": "66afd0154e3b6f5c8aa07a5e"
+  },
+  "brand": "Regular",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a6f"
+  },
+  "userId": {
+    "$oid": "66afd0184e3b6f5c8aa07a6d"
+  },
+  "brand": "Rama",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0184e3b6f5c8aa07a81"
+  },
+  "userId": {
+    "$oid": "66afd0184e3b6f5c8aa07a7f"
+  },
+  "brand": "VES",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd01c4e3b6f5c8aa07a93"
+  },
+  "userId": {
+    "$oid": "66afd01c4e3b6f5c8aa07a91"
+  },
+  "brand": "Kapa",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0234e3b6f5c8aa07aa2"
+  },
+  "userId": {
+    "$oid": "66afd0234e3b6f5c8aa07aa0"
+  },
+  "brand": "CORA",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0254e3b6f5c8aa07aba"
+  },
+  "userId": {
+    "$oid": "66afd0244e3b6f5c8aa07ab8"
+  },
+  "brand": "RETAIL SHOP INDIA",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0254e3b6f5c8aa07ac9"
+  },
+  "userId": {
+    "$oid": "66afd0254e3b6f5c8aa07ac7"
+  },
+  "brand": "YoudyCo",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0274e3b6f5c8aa07ae1"
+  },
+  "userId": {
+    "$oid": "66afd0274e3b6f5c8aa07adf"
+  },
+  "brand": "domestiq",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0274e3b6f5c8aa07af0"
+  },
+  "userId": {
+    "$oid": "66afd0274e3b6f5c8aa07aee"
+  },
+  "brand": "Guardian",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0284e3b6f5c8aa07aff"
+  },
+  "userId": {
+    "$oid": "66afd0284e3b6f5c8aa07afd"
+  },
+  "brand": "BODYSENSE",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0294e3b6f5c8aa07b0f"
+  },
+  "userId": {
+    "$oid": "66afd0294e3b6f5c8aa07b0d"
+  },
+  "brand": "Odoky",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd02a4e3b6f5c8aa07b1e"
+  },
+  "userId": {
+    "$oid": "66afd0294e3b6f5c8aa07b1c"
+  },
+  "brand": "Fashion Plus",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd02a4e3b6f5c8aa07b2d"
+  },
+  "userId": {
+    "$oid": "66afd02a4e3b6f5c8aa07b2b"
+  },
+  "brand": "Black",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd02c4e3b6f5c8aa07b3c"
+  },
+  "userId": {
+    "$oid": "66afd02c4e3b6f5c8aa07b3a"
+  },
+  "brand": "Purple",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd02d4e3b6f5c8aa07b4b"
+  },
+  "userId": {
+    "$oid": "66afd02d4e3b6f5c8aa07b49"
+  },
+  "brand": "Red",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd02e4e3b6f5c8aa07b5a"
+  },
+  "userId": {
+    "$oid": "66afd02e4e3b6f5c8aa07b58"
+  },
+  "brand": "Blue",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0324e3b6f5c8aa07b7b"
+  },
+  "userId": {
+    "$oid": "66afd0314e3b6f5c8aa07b79"
+  },
+  "brand": "Grey",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0374e3b6f5c8aa07b93"
+  },
+  "userId": {
+    "$oid": "66afd0374e3b6f5c8aa07b91"
+  },
+  "brand": "White",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0384e3b6f5c8aa07bab"
+  },
+  "userId": {
+    "$oid": "66afd0384e3b6f5c8aa07ba9"
+  },
+  "brand": "Pink",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0394e3b6f5c8aa07bba"
+  },
+  "userId": {
+    "$oid": "66afd0394e3b6f5c8aa07bb8"
+  },
+  "brand": "Baby Pink",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd03a4e3b6f5c8aa07bc9"
+  },
+  "userId": {
+    "$oid": "66afd03a4e3b6f5c8aa07bc7"
+  },
+  "brand": "Brown",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd03d4e3b6f5c8aa07bea"
+  },
+  "userId": {
+    "$oid": "66afd03d4e3b6f5c8aa07be8"
+  },
+  "brand": "Light Orange",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0454e3b6f5c8aa07c38"
+  },
+  "userId": {
+    "$oid": "66afd0454e3b6f5c8aa07c36"
+  },
+  "brand": "Coffee",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0464e3b6f5c8aa07c50"
+  },
+  "userId": {
+    "$oid": "66afd0464e3b6f5c8aa07c4e"
+  },
+  "brand": "Beige",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0564e3b6f5c8aa07ccb"
+  },
+  "userId": {
+    "$oid": "66afd0564e3b6f5c8aa07cc9"
+  },
+  "brand": "Orange",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0584e3b6f5c8aa07ce3"
+  },
+  "userId": {
+    "$oid": "66afd0584e3b6f5c8aa07ce1"
+  },
+  "brand": "Maroon",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd05c4e3b6f5c8aa07d0d"
+  },
+  "userId": {
+    "$oid": "66afd05c4e3b6f5c8aa07d0b"
+  },
+  "brand": "Rouge Red",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd05e4e3b6f5c8aa07d25"
+  },
+  "userId": {
+    "$oid": "66afd05e4e3b6f5c8aa07d23"
+  },
+  "brand": "Black & Yellow",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0854e3b6f5c8aa07e54"
+  },
+  "userId": {
+    "$oid": "66afd0844e3b6f5c8aa07e52"
+  },
+  "brand": "Peach",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0884e3b6f5c8aa07e6c"
+  },
+  "userId": {
+    "$oid": "66afd0884e3b6f5c8aa07e6a"
+  },
+  "brand": "Leopard Print",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0894e3b6f5c8aa07e7b"
+  },
+  "userId": {
+    "$oid": "66afd0894e3b6f5c8aa07e79"
+  },
+  "brand": "Dark Grey",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0954e3b6f5c8aa07ed2"
+  },
+  "userId": {
+    "$oid": "66afd0954e3b6f5c8aa07ed0"
+  },
+  "brand": "Skin",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd09c4e3b6f5c8aa07f17"
+  },
+  "userId": {
+    "$oid": "66afd09c4e3b6f5c8aa07f15"
+  },
+  "brand": "Dark Pink",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0a44e3b6f5c8aa07f65"
+  },
+  "userId": {
+    "$oid": "66afd0a44e3b6f5c8aa07f63"
+  },
+  "brand": "Multicolor",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0a64e3b6f5c8aa07f7d"
+  },
+  "userId": {
+    "$oid": "66afd0a64e3b6f5c8aa07f7b"
+  },
+  "brand": "Cherry",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0a94e3b6f5c8aa07f9e"
+  },
+  "userId": {
+    "$oid": "66afd0a94e3b6f5c8aa07f9c"
+  },
+  "brand": "Powder Blue",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0ac4e3b6f5c8aa07fb6"
+  },
+  "userId": {
+    "$oid": "66afd0ac4e3b6f5c8aa07fb4"
+  },
+  "brand": "Black Multi",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0b54e3b6f5c8aa08004"
+  },
+  "userId": {
+    "$oid": "66afd0b54e3b6f5c8aa08002"
+  },
+  "brand": "Turquise",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0b74e3b6f5c8aa08013"
+  },
+  "userId": {
+    "$oid": "66afd0b64e3b6f5c8aa08011"
+  },
+  "brand": "Grey & Black",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0b84e3b6f5c8aa0802b"
+  },
+  "userId": {
+    "$oid": "66afd0b84e3b6f5c8aa08029"
+  },
+  "brand": "Carrot Red",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0bf4e3b6f5c8aa08070"
+  },
+  "userId": {
+    "$oid": "66afd0be4e3b6f5c8aa0806e"
+  },
+  "brand": "Light Purple",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0c24e3b6f5c8aa0809a"
+  },
+  "userId": {
+    "$oid": "66afd0c24e3b6f5c8aa08098"
+  },
+  "brand": "Light Blue",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0c74e3b6f5c8aa080d6"
+  },
+  "userId": {
+    "$oid": "66afd0c74e3b6f5c8aa080d4"
+  },
+  "brand": "Light Pink",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0cf4e3b6f5c8aa0811b"
+  },
+  "userId": {
+    "$oid": "66afd0cf4e3b6f5c8aa08119"
+  },
+  "brand": "Yellow",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0de4e3b6f5c8aa081a8"
+  },
+  "userId": {
+    "$oid": "66afd0de4e3b6f5c8aa081a6"
+  },
+  "brand": "RAA",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0e04e3b6f5c8aa081b8"
+  },
+  "userId": {
+    "$oid": "66afd0e04e3b6f5c8aa081b6"
+  },
+  "brand": "diva boutique",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0e14e3b6f5c8aa081c7"
+  },
+  "userId": {
+    "$oid": "66afd0e14e3b6f5c8aa081c5"
+  },
+  "brand": "JDK NOVELTY",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0e54e3b6f5c8aa081f1"
+  },
+  "userId": {
+    "$oid": "66afd0e44e3b6f5c8aa081ef"
+  },
+  "brand": "HK-Impex",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0e64e3b6f5c8aa08200"
+  },
+  "userId": {
+    "$oid": "66afd0e54e3b6f5c8aa081fe"
+  },
+  "brand": "Oggo Deo",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0ea4e3b6f5c8aa0823c"
+  },
+  "userId": {
+    "$oid": "66afd0ea4e3b6f5c8aa0823a"
+  },
+  "brand": "trustedsnap",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0ec4e3b6f5c8aa08254"
+  },
+  "userId": {
+    "$oid": "66afd0ec4e3b6f5c8aa08252"
+  },
+  "brand": "Vero Moda",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0f04e3b6f5c8aa0826c"
+  },
+  "userId": {
+    "$oid": "66afd0ef4e3b6f5c8aa0826a"
+  },
+  "brand": "GLAMWALK",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0f14e3b6f5c8aa0827b"
+  },
+  "userId": {
+    "$oid": "66afd0f04e3b6f5c8aa08279"
+  },
+  "brand": "Nickolas",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0f44e3b6f5c8aa08293"
+  },
+  "userId": {
+    "$oid": "66afd0f34e3b6f5c8aa08291"
+  },
+  "brand": "Klaur Melbourne",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0fa4e3b6f5c8aa082c6"
+  },
+  "userId": {
+    "$oid": "66afd0fa4e3b6f5c8aa082c4"
+  },
+  "brand": "Recrafto",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0fb4e3b6f5c8aa082d6"
+  },
+  "userId": {
+    "$oid": "66afd0fb4e3b6f5c8aa082d4"
+  },
+  "brand": "FAX",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0fc4e3b6f5c8aa082e5"
+  },
+  "userId": {
+    "$oid": "66afd0fc4e3b6f5c8aa082e3"
+  },
+  "brand": "Chazer",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0fe4e3b6f5c8aa082f4"
+  },
+  "userId": {
+    "$oid": "66afd0fe4e3b6f5c8aa082f2"
+  },
+  "brand": "Leather chief",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd0ff4e3b6f5c8aa08303"
+  },
+  "userId": {
+    "$oid": "66afd0ff4e3b6f5c8aa08301"
+  },
+  "brand": "Hitway",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1004e3b6f5c8aa08312"
+  },
+  "userId": {
+    "$oid": "66afd1004e3b6f5c8aa08310"
+  },
+  "brand": "Lilliput",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1024e3b6f5c8aa08321"
+  },
+  "userId": {
+    "$oid": "66afd1014e3b6f5c8aa0831f"
+  },
+  "brand": "Gasser",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1034e3b6f5c8aa08330"
+  },
+  "userId": {
+    "$oid": "66afd1034e3b6f5c8aa0832e"
+  },
+  "brand": "ARMOIRE",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1064e3b6f5c8aa08348"
+  },
+  "userId": {
+    "$oid": "66afd1064e3b6f5c8aa08346"
+  },
+  "brand": "Jon Pep",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1074e3b6f5c8aa08357"
+  },
+  "userId": {
+    "$oid": "66afd1074e3b6f5c8aa08355"
+  },
+  "brand": "Action",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd10c4e3b6f5c8aa08378"
+  },
+  "userId": {
+    "$oid": "66afd10c4e3b6f5c8aa08376"
+  },
+  "brand": "FLITE",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd10d4e3b6f5c8aa08387"
+  },
+  "userId": {
+    "$oid": "66afd10d4e3b6f5c8aa08385"
+  },
+  "brand": "Zippy",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd10f4e3b6f5c8aa08396"
+  },
+  "userId": {
+    "$oid": "66afd10e4e3b6f5c8aa08394"
+  },
+  "brand": "Martini",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1124e3b6f5c8aa083ae"
+  },
+  "userId": {
+    "$oid": "66afd1124e3b6f5c8aa083ac"
+  },
+  "brand": "AMCO",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1134e3b6f5c8aa083bd"
+  },
+  "userId": {
+    "$oid": "66afd1134e3b6f5c8aa083bb"
+  },
+  "brand": "ATIS AMCO",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1164e3b6f5c8aa083d5"
+  },
+  "userId": {
+    "$oid": "66afd1164e3b6f5c8aa083d3"
+  },
+  "brand": "WorldWearFootwear",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1194e3b6f5c8aa083ed"
+  },
+  "userId": {
+    "$oid": "66afd1184e3b6f5c8aa083eb"
+  },
+  "brand": "Ridhi-Impex",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd11b4e3b6f5c8aa083fc"
+  },
+  "userId": {
+    "$oid": "66afd11b4e3b6f5c8aa083fa"
+  },
+  "brand": "Zappy",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd11c4e3b6f5c8aa0840b"
+  },
+  "userId": {
+    "$oid": "66afd11c4e3b6f5c8aa08409"
+  },
+  "brand": "Toe Spring",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1204e3b6f5c8aa0842c"
+  },
+  "userId": {
+    "$oid": "66afd1204e3b6f5c8aa0842a"
+  },
+  "brand": "Being Nawab",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1214e3b6f5c8aa0843c"
+  },
+  "userId": {
+    "$oid": "66afd1214e3b6f5c8aa0843a"
+  },
+  "brand": "Ray-Pro",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1234e3b6f5c8aa0844c"
+  },
+  "userId": {
+    "$oid": "66afd1224e3b6f5c8aa0844a"
+  },
+  "brand": "3a AUTOCARE",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1254e3b6f5c8aa08470"
+  },
+  "userId": {
+    "$oid": "66afd1254e3b6f5c8aa0846e"
+  },
+  "brand": "3a Autocare",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1264e3b6f5c8aa0847f"
+  },
+  "userId": {
+    "$oid": "66afd1264e3b6f5c8aa0847d"
+  },
+  "brand": "Ninety One Degree",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd12b4e3b6f5c8aa084c5"
+  },
+  "userId": {
+    "$oid": "66afd12b4e3b6f5c8aa084c3"
+  },
+  "brand": "Tatvaarts",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd12c4e3b6f5c8aa084d4"
+  },
+  "userId": {
+    "$oid": "66afd12c4e3b6f5c8aa084d2"
+  },
+  "brand": "Pratha",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd12d4e3b6f5c8aa084ee"
+  },
+  "userId": {
+    "$oid": "66afd12d4e3b6f5c8aa084ec"
+  },
+  "brand": "Addons",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd12f4e3b6f5c8aa08508"
+  },
+  "userId": {
+    "$oid": "66afd12e4e3b6f5c8aa08506"
+  },
+  "brand": "UpTown",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1354e3b6f5c8aa0854d"
+  },
+  "userId": {
+    "$oid": "66afd1344e3b6f5c8aa0854b"
+  },
+  "brand": "Aaishwarya",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1364e3b6f5c8aa08565"
+  },
+  "userId": {
+    "$oid": "66afd1364e3b6f5c8aa08563"
+  },
+  "brand": "Zovon",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1384e3b6f5c8aa0857d"
+  },
+  "userId": {
+    "$oid": "66afd1374e3b6f5c8aa0857b"
+  },
+  "brand": "Amzer",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1384e3b6f5c8aa0858d"
+  },
+  "userId": {
+    "$oid": "66afd1384e3b6f5c8aa0858b"
+  },
+  "brand": "Gear X",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd13a4e3b6f5c8aa085a5"
+  },
+  "userId": {
+    "$oid": "66afd13a4e3b6f5c8aa085a3"
+  },
+  "brand": "Neopack",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1424e3b6f5c8aa085f3"
+  },
+  "userId": {
+    "$oid": "66afd1414e3b6f5c8aa085f1"
+  },
+  "brand": "Total Agency",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1434e3b6f5c8aa0860b"
+  },
+  "userId": {
+    "$oid": "66afd1434e3b6f5c8aa08609"
+  },
+  "brand": "Zephyrr",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1474e3b6f5c8aa08635"
+  },
+  "userId": {
+    "$oid": "66afd1464e3b6f5c8aa08633"
+  },
+  "brand": "Unique Design",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1474e3b6f5c8aa08644"
+  },
+  "userId": {
+    "$oid": "66afd1474e3b6f5c8aa08642"
+  },
+  "brand": "DakshCraft",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd14a4e3b6f5c8aa08667"
+  },
+  "userId": {
+    "$oid": "66afd1494e3b6f5c8aa08665"
+  },
+  "brand": "Zaicus",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd14b4e3b6f5c8aa08676"
+  },
+  "userId": {
+    "$oid": "66afd14b4e3b6f5c8aa08674"
+  },
+  "brand": "4D Mats",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd14e4e3b6f5c8aa08697"
+  },
+  "userId": {
+    "$oid": "66afd14d4e3b6f5c8aa08695"
+  },
+  "brand": "S C Handicrafts",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd14e4e3b6f5c8aa086a7"
+  },
+  "userId": {
+    "$oid": "66afd14e4e3b6f5c8aa086a5"
+  },
+  "brand": "Style Buy Style",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1504e3b6f5c8aa086b6"
+  },
+  "userId": {
+    "$oid": "66afd14f4e3b6f5c8aa086b4"
+  },
+  "brand": "Flat n Heels",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1524e3b6f5c8aa086ce"
+  },
+  "userId": {
+    "$oid": "66afd1524e3b6f5c8aa086cc"
+  },
+  "brand": "Adorn",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1534e3b6f5c8aa086dd"
+  },
+  "userId": {
+    "$oid": "66afd1534e3b6f5c8aa086db"
+  },
+  "brand": "Katalogue",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1544e3b6f5c8aa086f5"
+  },
+  "userId": {
+    "$oid": "66afd1544e3b6f5c8aa086f3"
+  },
+  "brand": "ANASAZI",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1554e3b6f5c8aa08704"
+  },
+  "userId": {
+    "$oid": "66afd1554e3b6f5c8aa08702"
+  },
+  "brand": "Wajbee",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd15b4e3b6f5c8aa08740"
+  },
+  "userId": {
+    "$oid": "66afd15b4e3b6f5c8aa0873e"
+  },
+  "brand": "ZAIRE",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd15c4e3b6f5c8aa0874f"
+  },
+  "userId": {
+    "$oid": "66afd15b4e3b6f5c8aa0874d"
+  },
+  "brand": "Kute Kids",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd15f4e3b6f5c8aa08779"
+  },
+  "userId": {
+    "$oid": "66afd15f4e3b6f5c8aa08777"
+  },
+  "brand": "ESIDON",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1654e3b6f5c8aa087af"
+  },
+  "userId": {
+    "$oid": "66afd1654e3b6f5c8aa087ad"
+  },
+  "brand": "Next Player",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1664e3b6f5c8aa087bf"
+  },
+  "userId": {
+    "$oid": "66afd1664e3b6f5c8aa087bd"
+  },
+  "brand": "FATEN",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1674e3b6f5c8aa087ce"
+  },
+  "userId": {
+    "$oid": "66afd1674e3b6f5c8aa087cc"
+  },
+  "brand": "Style World",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1694e3b6f5c8aa087e6"
+  },
+  "userId": {
+    "$oid": "66afd1694e3b6f5c8aa087e4"
+  },
+  "brand": "Tryfa",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd16c4e3b6f5c8aa08807"
+  },
+  "userId": {
+    "$oid": "66afd16c4e3b6f5c8aa08805"
+  },
+  "brand": "Status Quo",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd16d4e3b6f5c8aa08816"
+  },
+  "userId": {
+    "$oid": "66afd16d4e3b6f5c8aa08814"
+  },
+  "brand": "Fabpoppy",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd16e4e3b6f5c8aa08825"
+  },
+  "userId": {
+    "$oid": "66afd16e4e3b6f5c8aa08823"
+  },
+  "brand": "Brahaan BLUE TAG",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd16f4e3b6f5c8aa08834"
+  },
+  "userId": {
+    "$oid": "66afd16f4e3b6f5c8aa08832"
+  },
+  "brand": "Tatkim",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1704e3b6f5c8aa08843"
+  },
+  "userId": {
+    "$oid": "66afd1704e3b6f5c8aa08841"
+  },
+  "brand": "Richard Cole",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1714e3b6f5c8aa08852"
+  },
+  "userId": {
+    "$oid": "66afd1714e3b6f5c8aa08850"
+  },
+  "brand": "Lekue",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1724e3b6f5c8aa08862"
+  },
+  "userId": {
+    "$oid": "66afd1724e3b6f5c8aa08860"
+  },
+  "brand": "Hi Look",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1744e3b6f5c8aa0887a"
+  },
+  "userId": {
+    "$oid": "66afd1744e3b6f5c8aa08878"
+  },
+  "brand": "GoldNera",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1754e3b6f5c8aa08889"
+  },
+  "userId": {
+    "$oid": "66afd1754e3b6f5c8aa08887"
+  },
+  "brand": "TP-LINK",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1794e3b6f5c8aa088a4"
+  },
+  "userId": {
+    "$oid": "66afd1784e3b6f5c8aa088a2"
+  },
+  "brand": "Zyxel",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd17a4e3b6f5c8aa088b3"
+  },
+  "userId": {
+    "$oid": "66afd17a4e3b6f5c8aa088b1"
+  },
+  "brand": "Fayon",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd17c4e3b6f5c8aa088cb"
+  },
+  "userId": {
+    "$oid": "66afd17b4e3b6f5c8aa088c9"
+  },
+  "brand": "Jainx",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd17d4e3b6f5c8aa088e3"
+  },
+  "userId": {
+    "$oid": "66afd17d4e3b6f5c8aa088e1"
+  },
+  "brand": "WD",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd17e4e3b6f5c8aa088f2"
+  },
+  "userId": {
+    "$oid": "66afd17e4e3b6f5c8aa088f0"
+  },
+  "brand": "Apple",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd17f4e3b6f5c8aa08901"
+  },
+  "userId": {
+    "$oid": "66afd17f4e3b6f5c8aa088ff"
+  },
+  "brand": "Jewelizer",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1804e3b6f5c8aa08910"
+  },
+  "userId": {
+    "$oid": "66afd1804e3b6f5c8aa0890e"
+  },
+  "brand": "TRENDnet",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1814e3b6f5c8aa0891f"
+  },
+  "userId": {
+    "$oid": "66afd1814e3b6f5c8aa0891d"
+  },
+  "brand": "Divaz",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1824e3b6f5c8aa0892e"
+  },
+  "userId": {
+    "$oid": "66afd1824e3b6f5c8aa0892c"
+  },
+  "brand": "tp-Link",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1834e3b6f5c8aa0893d"
+  },
+  "userId": {
+    "$oid": "66afd1834e3b6f5c8aa0893b"
+  },
+  "brand": "Netis",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1844e3b6f5c8aa0894c"
+  },
+  "userId": {
+    "$oid": "66afd1844e3b6f5c8aa0894a"
+  },
+  "brand": "Tenda",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1874e3b6f5c8aa08964"
+  },
+  "userId": {
+    "$oid": "66afd1864e3b6f5c8aa08962"
+  },
+  "brand": "Lava",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1894e3b6f5c8aa08985"
+  },
+  "userId": {
+    "$oid": "66afd1894e3b6f5c8aa08983"
+  },
+  "brand": "Jocular",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd18a4e3b6f5c8aa08994"
+  },
+  "userId": {
+    "$oid": "66afd18a4e3b6f5c8aa08992"
+  },
+  "brand": "Netgear",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd18c4e3b6f5c8aa089ac"
+  },
+  "userId": {
+    "$oid": "66afd18c4e3b6f5c8aa089aa"
+  },
+  "brand": "Binatone",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd18d4e3b6f5c8aa089c4"
+  },
+  "userId": {
+    "$oid": "66afd18d4e3b6f5c8aa089c2"
+  },
+  "brand": "Fashionography",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd18e4e3b6f5c8aa089d3"
+  },
+  "userId": {
+    "$oid": "66afd18e4e3b6f5c8aa089d1"
+  },
+  "brand": "Hedoneesta",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1904e3b6f5c8aa089eb"
+  },
+  "userId": {
+    "$oid": "66afd1904e3b6f5c8aa089e9"
+  },
+  "brand": "Diovanni",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1924e3b6f5c8aa08a03"
+  },
+  "userId": {
+    "$oid": "66afd1914e3b6f5c8aa08a01"
+  },
+  "brand": "Indian Swan",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1944e3b6f5c8aa08a24"
+  },
+  "userId": {
+    "$oid": "66afd1944e3b6f5c8aa08a22"
+  },
+  "brand": "Asus",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd19c4e3b6f5c8aa08a72"
+  },
+  "userId": {
+    "$oid": "66afd19c4e3b6f5c8aa08a70"
+  },
+  "brand": "Wi-Bridge",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd19f4e3b6f5c8aa08a9c"
+  },
+  "userId": {
+    "$oid": "66afd19f4e3b6f5c8aa08a9a"
+  },
+  "brand": "Pari & Prince",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1a04e3b6f5c8aa08aab"
+  },
+  "userId": {
+    "$oid": "66afd1a04e3b6f5c8aa08aa9"
+  },
+  "brand": "Packy Poda",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1a24e3b6f5c8aa08aba"
+  },
+  "userId": {
+    "$oid": "66afd1a24e3b6f5c8aa08ab8"
+  },
+  "brand": "Very Me",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1a44e3b6f5c8aa08ad2"
+  },
+  "userId": {
+    "$oid": "66afd1a34e3b6f5c8aa08ad0"
+  },
+  "brand": "Uptownie Lite",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1a64e3b6f5c8aa08aea"
+  },
+  "userId": {
+    "$oid": "66afd1a64e3b6f5c8aa08ae8"
+  },
+  "brand": "Clovia",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1a84e3b6f5c8aa08af9"
+  },
+  "userId": {
+    "$oid": "66afd1a74e3b6f5c8aa08af7"
+  },
+  "brand": "Pantof",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1a84e3b6f5c8aa08b08"
+  },
+  "userId": {
+    "$oid": "66afd1a84e3b6f5c8aa08b06"
+  },
+  "brand": "AROVI",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1ab4e3b6f5c8aa08b29"
+  },
+  "userId": {
+    "$oid": "66afd1ab4e3b6f5c8aa08b27"
+  },
+  "brand": "franco",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1ac4e3b6f5c8aa08b38"
+  },
+  "userId": {
+    "$oid": "66afd1ac4e3b6f5c8aa08b36"
+  },
+  "brand": "ZOSIGN",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1ae4e3b6f5c8aa08b50"
+  },
+  "userId": {
+    "$oid": "66afd1ae4e3b6f5c8aa08b4e"
+  },
+  "brand": "Magideal",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1b04e3b6f5c8aa08b68"
+  },
+  "userId": {
+    "$oid": "66afd1af4e3b6f5c8aa08b66"
+  },
+  "brand": "Calvin Klein",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1b14e3b6f5c8aa08b77"
+  },
+  "userId": {
+    "$oid": "66afd1b04e3b6f5c8aa08b75"
+  },
+  "brand": "Romano",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1b24e3b6f5c8aa08b86"
+  },
+  "userId": {
+    "$oid": "66afd1b24e3b6f5c8aa08b84"
+  },
+  "brand": "ISHWA",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1b44e3b6f5c8aa08b9e"
+  },
+  "userId": {
+    "$oid": "66afd1b44e3b6f5c8aa08b9c"
+  },
+  "brand": "Aurelia",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1b54e3b6f5c8aa08bad"
+  },
+  "userId": {
+    "$oid": "66afd1b54e3b6f5c8aa08bab"
+  },
+  "brand": "Besto",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1b64e3b6f5c8aa08bbf"
+  },
+  "userId": {
+    "$oid": "66afd1b64e3b6f5c8aa08bbd"
+  },
+  "brand": "Generix",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1b74e3b6f5c8aa08bd0"
+  },
+  "userId": {
+    "$oid": "66afd1b74e3b6f5c8aa08bce"
+  },
+  "brand": "Cobb",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1b84e3b6f5c8aa08bdf"
+  },
+  "userId": {
+    "$oid": "66afd1b84e3b6f5c8aa08bdd"
+  },
+  "brand": "Little Frog",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1bd4e3b6f5c8aa08bef"
+  },
+  "userId": {
+    "$oid": "66afd1bd4e3b6f5c8aa08bed"
+  },
+  "brand": "CLYMB",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1bf4e3b6f5c8aa08c07"
+  },
+  "userId": {
+    "$oid": "66afd1bf4e3b6f5c8aa08c05"
+  },
+  "brand": "Columbus",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1c24e3b6f5c8aa08c16"
+  },
+  "userId": {
+    "$oid": "66afd1c24e3b6f5c8aa08c14"
+  },
+  "brand": "Imlee",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1c44e3b6f5c8aa08c25"
+  },
+  "userId": {
+    "$oid": "66afd1c44e3b6f5c8aa08c23"
+  },
+  "brand": "D'Panache",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1c64e3b6f5c8aa08c3d"
+  },
+  "userId": {
+    "$oid": "66afd1c64e3b6f5c8aa08c3b"
+  },
+  "brand": "Slim Fit",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1c84e3b6f5c8aa08c55"
+  },
+  "userId": {
+    "$oid": "66afd1c84e3b6f5c8aa08c53"
+  },
+  "brand": "Cello",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1c94e3b6f5c8aa08c67"
+  },
+  "userId": {
+    "$oid": "66afd1c94e3b6f5c8aa08c65"
+  },
+  "brand": "o.h.m",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1ca4e3b6f5c8aa08c76"
+  },
+  "userId": {
+    "$oid": "66afd1ca4e3b6f5c8aa08c74"
+  },
+  "brand": "Quenell",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1cb4e3b6f5c8aa08c85"
+  },
+  "userId": {
+    "$oid": "66afd1cb4e3b6f5c8aa08c83"
+  },
+  "brand": "Jack & Jones",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1cc4e3b6f5c8aa08c94"
+  },
+  "userId": {
+    "$oid": "66afd1cc4e3b6f5c8aa08c92"
+  },
+  "brand": "NELL",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1cd4e3b6f5c8aa08ca3"
+  },
+  "userId": {
+    "$oid": "66afd1cd4e3b6f5c8aa08ca1"
+  },
+  "brand": "Swag India",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1ce4e3b6f5c8aa08cb2"
+  },
+  "userId": {
+    "$oid": "66afd1ce4e3b6f5c8aa08cb0"
+  },
+  "brand": "A A STORE",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1cf4e3b6f5c8aa08cc1"
+  },
+  "userId": {
+    "$oid": "66afd1cf4e3b6f5c8aa08cbf"
+  },
+  "brand": "JBN Creation",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1d04e3b6f5c8aa08cd0"
+  },
+  "userId": {
+    "$oid": "66afd1d04e3b6f5c8aa08cce"
+  },
+  "brand": "Be 13",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1d24e3b6f5c8aa08ce8"
+  },
+  "userId": {
+    "$oid": "66afd1d14e3b6f5c8aa08ce6"
+  },
+  "brand": "PANIT",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1d54e3b6f5c8aa08d12"
+  },
+  "userId": {
+    "$oid": "66afd1d54e3b6f5c8aa08d10"
+  },
+  "brand": "Amirich",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1d64e3b6f5c8aa08d21"
+  },
+  "userId": {
+    "$oid": "66afd1d64e3b6f5c8aa08d1f"
+  },
+  "brand": "Shaun",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1d84e3b6f5c8aa08d30"
+  },
+  "userId": {
+    "$oid": "66afd1d84e3b6f5c8aa08d2e"
+  },
+  "brand": "Famaya",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1db4e3b6f5c8aa08d51"
+  },
+  "userId": {
+    "$oid": "66afd1db4e3b6f5c8aa08d4f"
+  },
+  "brand": "Feminin",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1de4e3b6f5c8aa08d72"
+  },
+  "userId": {
+    "$oid": "66afd1de4e3b6f5c8aa08d70"
+  },
+  "brand": "ABSTAR",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1e04e3b6f5c8aa08d82"
+  },
+  "userId": {
+    "$oid": "66afd1df4e3b6f5c8aa08d80"
+  },
+  "brand": "The House of Tara",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1e14e3b6f5c8aa08d91"
+  },
+  "userId": {
+    "$oid": "66afd1e14e3b6f5c8aa08d8f"
+  },
+  "brand": "TeeSort",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1e24e3b6f5c8aa08da1"
+  },
+  "userId": {
+    "$oid": "66afd1e24e3b6f5c8aa08d9f"
+  },
+  "brand": "Harissons",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1e44e3b6f5c8aa08db9"
+  },
+  "userId": {
+    "$oid": "66afd1e44e3b6f5c8aa08db7"
+  },
+  "brand": "urban monk creations",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1e54e3b6f5c8aa08dca"
+  },
+  "userId": {
+    "$oid": "66afd1e54e3b6f5c8aa08dc8"
+  },
+  "brand": "Fabiya",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1e64e3b6f5c8aa08dd9"
+  },
+  "userId": {
+    "$oid": "66afd1e64e3b6f5c8aa08dd7"
+  },
+  "brand": "Marami",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1e74e3b6f5c8aa08dea"
+  },
+  "userId": {
+    "$oid": "66afd1e74e3b6f5c8aa08de8"
+  },
+  "brand": "Sutra Decor",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1e84e3b6f5c8aa08dfc"
+  },
+  "userId": {
+    "$oid": "66afd1e84e3b6f5c8aa08dfa"
+  },
+  "brand": "Green Girgit",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1eb4e3b6f5c8aa08e1d"
+  },
+  "userId": {
+    "$oid": "66afd1eb4e3b6f5c8aa08e1b"
+  },
+  "brand": "Easy Gardening",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1ec4e3b6f5c8aa08e2c"
+  },
+  "userId": {
+    "$oid": "66afd1ec4e3b6f5c8aa08e2a"
+  },
+  "brand": "Blessed",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1ed4e3b6f5c8aa08e3b"
+  },
+  "userId": {
+    "$oid": "66afd1ed4e3b6f5c8aa08e39"
+  },
+  "brand": "Wonderland",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1f04e3b6f5c8aa08e5c"
+  },
+  "userId": {
+    "$oid": "66afd1f04e3b6f5c8aa08e5a"
+  },
+  "brand": "Super Drool",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1f44e3b6f5c8aa08e7d"
+  },
+  "userId": {
+    "$oid": "66afd1f34e3b6f5c8aa08e7b"
+  },
+  "brand": "Craftghar",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd1fe4e3b6f5c8aa08ee6"
+  },
+  "userId": {
+    "$oid": "66afd1fe4e3b6f5c8aa08ee4"
+  },
+  "brand": "Cambio",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2044e3b6f5c8aa08f19"
+  },
+  "userId": {
+    "$oid": "66afd2044e3b6f5c8aa08f17"
+  },
+  "brand": "Atlantic",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2094e3b6f5c8aa08f43"
+  },
+  "userId": {
+    "$oid": "66afd2094e3b6f5c8aa08f41"
+  },
+  "brand": "Aadi",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd20a4e3b6f5c8aa08f53"
+  },
+  "userId": {
+    "$oid": "66afd20a4e3b6f5c8aa08f51"
+  },
+  "brand": "HEAVENLY",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd20e4e3b6f5c8aa08f62"
+  },
+  "userId": {
+    "$oid": "66afd20e4e3b6f5c8aa08f60"
+  },
+  "brand": "run of luck",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2114e3b6f5c8aa08f71"
+  },
+  "userId": {
+    "$oid": "66afd2114e3b6f5c8aa08f6f"
+  },
+  "brand": "Rugby",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd21d4e3b6f5c8aa08f80"
+  },
+  "userId": {
+    "$oid": "66afd21d4e3b6f5c8aa08f7e"
+  },
+  "brand": "Blinkin",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2274e3b6f5c8aa08f8f"
+  },
+  "userId": {
+    "$oid": "66afd2274e3b6f5c8aa08f8d"
+  },
+  "brand": "INDILEGO",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd22d4e3b6f5c8aa08f9f"
+  },
+  "userId": {
+    "$oid": "66afd22d4e3b6f5c8aa08f9d"
+  },
+  "brand": "Hitobito",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2304e3b6f5c8aa08fae"
+  },
+  "userId": {
+    "$oid": "66afd2304e3b6f5c8aa08fac"
+  },
+  "brand": "REMSON INDIA",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2324e3b6f5c8aa08fbe"
+  },
+  "userId": {
+    "$oid": "66afd2314e3b6f5c8aa08fbc"
+  },
+  "brand": "LRB",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2344e3b6f5c8aa08fcd"
+  },
+  "userId": {
+    "$oid": "66afd2344e3b6f5c8aa08fcb"
+  },
+  "brand": "People",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd23a4e3b6f5c8aa08fdc"
+  },
+  "userId": {
+    "$oid": "66afd2394e3b6f5c8aa08fda"
+  },
+  "brand": "Reebok",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd23b4e3b6f5c8aa08feb"
+  },
+  "userId": {
+    "$oid": "66afd23b4e3b6f5c8aa08fe9"
+  },
+  "brand": "Urban Girl",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2404e3b6f5c8aa08ffd"
+  },
+  "userId": {
+    "$oid": "66afd2404e3b6f5c8aa08ffb"
+  },
+  "brand": "MIRICHI",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2634e3b6f5c8aa09067"
+  },
+  "userId": {
+    "$oid": "66afd2634e3b6f5c8aa09065"
+  },
+  "brand": "Sushito",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2654e3b6f5c8aa09078"
+  },
+  "userId": {
+    "$oid": "66afd2654e3b6f5c8aa09076"
+  },
+  "brand": "Shaftesbury London",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd26a4e3b6f5c8aa09099"
+  },
+  "userId": {
+    "$oid": "66afd26a4e3b6f5c8aa09097"
+  },
+  "brand": "Stylenara",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2704e3b6f5c8aa090c3"
+  },
+  "userId": {
+    "$oid": "66afd2704e3b6f5c8aa090c1"
+  },
+  "brand": "rainfun",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2734e3b6f5c8aa090db"
+  },
+  "userId": {
+    "$oid": "66afd2724e3b6f5c8aa090d9"
+  },
+  "brand": "Nude",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2774e3b6f5c8aa090fc"
+  },
+  "userId": {
+    "$oid": "66afd2774e3b6f5c8aa090fa"
+  },
+  "brand": "Smart Fit",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2794e3b6f5c8aa0910b"
+  },
+  "userId": {
+    "$oid": "66afd2794e3b6f5c8aa09109"
+  },
+  "brand": "Navy",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd27e4e3b6f5c8aa09135"
+  },
+  "userId": {
+    "$oid": "66afd27e4e3b6f5c8aa09133"
+  },
+  "brand": "MTB",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd27f4e3b6f5c8aa09144"
+  },
+  "userId": {
+    "$oid": "66afd27f4e3b6f5c8aa09142"
+  },
+  "brand": "Krazy Fitness",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2814e3b6f5c8aa09155"
+  },
+  "userId": {
+    "$oid": "66afd2814e3b6f5c8aa09153"
+  },
+  "brand": "Heart 2 Heart",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2834e3b6f5c8aa09164"
+  },
+  "userId": {
+    "$oid": "66afd2824e3b6f5c8aa09162"
+  },
+  "brand": "vinaya",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2844e3b6f5c8aa09173"
+  },
+  "userId": {
+    "$oid": "66afd2844e3b6f5c8aa09171"
+  },
+  "brand": "La Shades",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2864e3b6f5c8aa09182"
+  },
+  "userId": {
+    "$oid": "66afd2854e3b6f5c8aa09180"
+  },
+  "brand": "GISOLE",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2874e3b6f5c8aa09191"
+  },
+  "userId": {
+    "$oid": "66afd2874e3b6f5c8aa0918f"
+  },
+  "brand": "Clever Steps",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd28a4e3b6f5c8aa091b2"
+  },
+  "userId": {
+    "$oid": "66afd28a4e3b6f5c8aa091b0"
+  },
+  "brand": "reenak",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd28b4e3b6f5c8aa091c1"
+  },
+  "userId": {
+    "$oid": "66afd28b4e3b6f5c8aa091bf"
+  },
+  "brand": "Reyes Reales",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd28d4e3b6f5c8aa091d0"
+  },
+  "userId": {
+    "$oid": "66afd28d4e3b6f5c8aa091ce"
+  },
+  "brand": "Clareo",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd28e4e3b6f5c8aa091e0"
+  },
+  "userId": {
+    "$oid": "66afd28e4e3b6f5c8aa091de"
+  },
+  "brand": "NAISHA",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd28f4e3b6f5c8aa091ef"
+  },
+  "userId": {
+    "$oid": "66afd28f4e3b6f5c8aa091ed"
+  },
+  "brand": "Theme United",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2914e3b6f5c8aa091fe"
+  },
+  "userId": {
+    "$oid": "66afd2914e3b6f5c8aa091fc"
+  },
+  "brand": "FAB FASHION",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2924e3b6f5c8aa0920d"
+  },
+  "userId": {
+    "$oid": "66afd2924e3b6f5c8aa0920b"
+  },
+  "brand": "PINK FEVER",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2994e3b6f5c8aa09240"
+  },
+  "userId": {
+    "$oid": "66afd2984e3b6f5c8aa0923e"
+  },
+  "brand": "PurePlay",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd29b4e3b6f5c8aa09258"
+  },
+  "userId": {
+    "$oid": "66afd29b4e3b6f5c8aa09256"
+  },
+  "brand": "Kazo",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd29c4e3b6f5c8aa09267"
+  },
+  "userId": {
+    "$oid": "66afd29c4e3b6f5c8aa09265"
+  },
+  "brand": "KID'S STOP",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd29e4e3b6f5c8aa09276"
+  },
+  "userId": {
+    "$oid": "66afd29d4e3b6f5c8aa09274"
+  },
+  "brand": "LATHERO",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd29f4e3b6f5c8aa09285"
+  },
+  "userId": {
+    "$oid": "66afd29e4e3b6f5c8aa09283"
+  },
+  "brand": "V3iShop",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2a14e3b6f5c8aa0929d"
+  },
+  "userId": {
+    "$oid": "66afd2a14e3b6f5c8aa0929b"
+  },
+  "brand": "L'appel Du vide",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2a84e3b6f5c8aa092be"
+  },
+  "userId": {
+    "$oid": "66afd2a84e3b6f5c8aa092bc"
+  },
+  "brand": "Kanvin",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2aa4e3b6f5c8aa092d6"
+  },
+  "userId": {
+    "$oid": "66afd2aa4e3b6f5c8aa092d4"
+  },
+  "brand": "Gravolite",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2b14e3b6f5c8aa0930a"
+  },
+  "userId": {
+    "$oid": "66afd2b14e3b6f5c8aa09308"
+  },
+  "brand": "Vector X",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2b34e3b6f5c8aa09319"
+  },
+  "userId": {
+    "$oid": "66afd2b34e3b6f5c8aa09317"
+  },
+  "brand": "Fab Nisa",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2b64e3b6f5c8aa09331"
+  },
+  "userId": {
+    "$oid": "66afd2b64e3b6f5c8aa0932f"
+  },
+  "brand": "aadi",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2b74e3b6f5c8aa09340"
+  },
+  "userId": {
+    "$oid": "66afd2b74e3b6f5c8aa0933e"
+  },
+  "brand": "Senterlan",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2b94e3b6f5c8aa09351"
+  },
+  "userId": {
+    "$oid": "66afd2b94e3b6f5c8aa0934f"
+  },
+  "brand": "Avaron Projekt",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2bc4e3b6f5c8aa0936b"
+  },
+  "userId": {
+    "$oid": "66afd2bb4e3b6f5c8aa09369"
+  },
+  "brand": "WI Retail",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2be4e3b6f5c8aa09383"
+  },
+  "userId": {
+    "$oid": "66afd2be4e3b6f5c8aa09381"
+  },
+  "brand": "adidas",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2c04e3b6f5c8aa09392"
+  },
+  "userId": {
+    "$oid": "66afd2bf4e3b6f5c8aa09390"
+  },
+  "brand": "Wi Retail",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2c14e3b6f5c8aa093a1"
+  },
+  "userId": {
+    "$oid": "66afd2c14e3b6f5c8aa0939f"
+  },
+  "brand": "Small Toes",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2c24e3b6f5c8aa093b0"
+  },
+  "userId": {
+    "$oid": "66afd2c24e3b6f5c8aa093ae"
+  },
+  "brand": "Glamour",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2c34e3b6f5c8aa093bf"
+  },
+  "userId": {
+    "$oid": "66afd2c34e3b6f5c8aa093bd"
+  },
+  "brand": "Kook N Keech Disney",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2c54e3b6f5c8aa093ce"
+  },
+  "userId": {
+    "$oid": "66afd2c54e3b6f5c8aa093cc"
+  },
+  "brand": "Barbar",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2c74e3b6f5c8aa093e0"
+  },
+  "userId": {
+    "$oid": "66afd2c64e3b6f5c8aa093de"
+  },
+  "brand": "Conair",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2c84e3b6f5c8aa093ef"
+  },
+  "userId": {
+    "$oid": "66afd2c84e3b6f5c8aa093ed"
+  },
+  "brand": "Rusk",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2c94e3b6f5c8aa093fe"
+  },
+  "userId": {
+    "$oid": "66afd2c94e3b6f5c8aa093fc"
+  },
+  "brand": "Esteem",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2cb4e3b6f5c8aa0940d"
+  },
+  "userId": {
+    "$oid": "66afd2ca4e3b6f5c8aa0940b"
+  },
+  "brand": "BaBylissPRO",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2cc4e3b6f5c8aa0941c"
+  },
+  "userId": {
+    "$oid": "66afd2cc4e3b6f5c8aa0941a"
+  },
+  "brand": "xpert",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2ce4e3b6f5c8aa0942b"
+  },
+  "userId": {
+    "$oid": "66afd2cd4e3b6f5c8aa09429"
+  },
+  "brand": "Le Angelique",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2d34e3b6f5c8aa0944c"
+  },
+  "userId": {
+    "$oid": "66afd2d34e3b6f5c8aa0944a"
+  },
+  "brand": "The Intellect Bazaar",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2d54e3b6f5c8aa0945d"
+  },
+  "userId": {
+    "$oid": "66afd2d44e3b6f5c8aa0945b"
+  },
+  "brand": "APS",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2d64e3b6f5c8aa09475"
+  },
+  "userId": {
+    "$oid": "66afd2d64e3b6f5c8aa09473"
+  },
+  "brand": "Raghav India",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2d84e3b6f5c8aa09486"
+  },
+  "userId": {
+    "$oid": "66afd2d84e3b6f5c8aa09484"
+  },
+  "brand": "Durian",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2db4e3b6f5c8aa0949f"
+  },
+  "userId": {
+    "$oid": "66afd2db4e3b6f5c8aa0949d"
+  },
+  "brand": "ARRA",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2ed4e3b6f5c8aa0952c"
+  },
+  "userId": {
+    "$oid": "66afd2ed4e3b6f5c8aa0952a"
+  },
+  "brand": "Neyth",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2ef4e3b6f5c8aa0953b"
+  },
+  "userId": {
+    "$oid": "66afd2ef4e3b6f5c8aa09539"
+  },
+  "brand": "HomeTown",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd2f04e3b6f5c8aa0954a"
+  },
+  "userId": {
+    "$oid": "66afd2f04e3b6f5c8aa09548"
+  },
+  "brand": "Furnstyl",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd3144e3b6f5c8aa0963a"
+  },
+  "userId": {
+    "$oid": "66afd3144e3b6f5c8aa09638"
+  },
+  "brand": "Kolorfame",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd3184e3b6f5c8aa0965b"
+  },
+  "userId": {
+    "$oid": "66afd3184e3b6f5c8aa09659"
+  },
+  "brand": "RAJSAHI",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd3194e3b6f5c8aa0966a"
+  },
+  "userId": {
+    "$oid": "66afd3194e3b6f5c8aa09668"
+  },
+  "brand": "SCANTIA",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd3254e3b6f5c8aa096c1"
+  },
+  "userId": {
+    "$oid": "66afd3254e3b6f5c8aa096bf"
+  },
+  "brand": "Regular fit",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd32d4e3b6f5c8aa09706"
+  },
+  "userId": {
+    "$oid": "66afd32d4e3b6f5c8aa09704"
+  },
+  "brand": "Beingwomen",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd3654e3b6f5c8aa098c5"
+  },
+  "userId": {
+    "$oid": "66afd3654e3b6f5c8aa098c3"
+  },
+  "brand": "Casual",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd3734e3b6f5c8aa09937"
+  },
+  "userId": {
+    "$oid": "66afd3734e3b6f5c8aa09935"
+  },
+  "brand": "Viva Fashions",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd3c24e3b6f5c8aa09b98"
+  },
+  "userId": {
+    "$oid": "66afd3c24e3b6f5c8aa09b96"
+  },
+  "brand": "My Design",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd3ff4e3b6f5c8aa09d7b"
+  },
+  "userId": {
+    "$oid": "66afd3fe4e3b6f5c8aa09d79"
+  },
+  "brand": "Wecart",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4734e3b6f5c8aa0a117"
+  },
+  "userId": {
+    "$oid": "66afd4734e3b6f5c8aa0a115"
+  },
+  "brand": "Airwind",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4794e3b6f5c8aa0a128"
+  },
+  "userId": {
+    "$oid": "66afd4784e3b6f5c8aa0a126"
+  },
+  "brand": "Smile2u Retailers",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4904e3b6f5c8aa0a139"
+  },
+  "userId": {
+    "$oid": "66afd4904e3b6f5c8aa0a137"
+  },
+  "brand": "Justanned",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4924e3b6f5c8aa0a148"
+  },
+  "userId": {
+    "$oid": "66afd4924e3b6f5c8aa0a146"
+  },
+  "brand": "Indigocart",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4974e3b6f5c8aa0a157"
+  },
+  "userId": {
+    "$oid": "66afd4974e3b6f5c8aa0a155"
+  },
+  "brand": "Hoko",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd49e4e3b6f5c8aa0a166"
+  },
+  "userId": {
+    "$oid": "66afd49e4e3b6f5c8aa0a164"
+  },
+  "brand": "BMS Lifestyle",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4a54e3b6f5c8aa0a17e"
+  },
+  "userId": {
+    "$oid": "66afd4a54e3b6f5c8aa0a17c"
+  },
+  "brand": "Rock",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4b34e3b6f5c8aa0a196"
+  },
+  "userId": {
+    "$oid": "66afd4b34e3b6f5c8aa0a194"
+  },
+  "brand": "Remington",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4b44e3b6f5c8aa0a1a6"
+  },
+  "userId": {
+    "$oid": "66afd4b44e3b6f5c8aa0a1a4"
+  },
+  "brand": "Pompom Sweethearts",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4c34e3b6f5c8aa0a1b7"
+  },
+  "userId": {
+    "$oid": "66afd4c34e3b6f5c8aa0a1b5"
+  },
+  "brand": "Amazing India",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4dc4e3b6f5c8aa0a1c6"
+  },
+  "userId": {
+    "$oid": "66afd4db4e3b6f5c8aa0a1c4"
+  },
+  "brand": "Edel",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4dd4e3b6f5c8aa0a1d5"
+  },
+  "userId": {
+    "$oid": "66afd4dd4e3b6f5c8aa0a1d3"
+  },
+  "brand": "MSC",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4de4e3b6f5c8aa0a1e4"
+  },
+  "userId": {
+    "$oid": "66afd4de4e3b6f5c8aa0a1e2"
+  },
+  "brand": "Four Paws",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4df4e3b6f5c8aa0a1f6"
+  },
+  "userId": {
+    "$oid": "66afd4df4e3b6f5c8aa0a1f4"
+  },
+  "brand": "Brandvilla",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4e14e3b6f5c8aa0a20e"
+  },
+  "userId": {
+    "$oid": "66afd4e14e3b6f5c8aa0a20c"
+  },
+  "brand": "Sakhi Styles",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4e34e3b6f5c8aa0a21d"
+  },
+  "userId": {
+    "$oid": "66afd4e34e3b6f5c8aa0a21b"
+  },
+  "brand": "Andrew Christian",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4e74e3b6f5c8aa0a235"
+  },
+  "userId": {
+    "$oid": "66afd4e74e3b6f5c8aa0a233"
+  },
+  "brand": "ULTRAVISION",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4e84e3b6f5c8aa0a247"
+  },
+  "userId": {
+    "$oid": "66afd4e84e3b6f5c8aa0a245"
+  },
+  "brand": "KRAZY KATZ",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4ea4e3b6f5c8aa0a257"
+  },
+  "userId": {
+    "$oid": "66afd4e94e3b6f5c8aa0a255"
+  },
+  "brand": "Synergy",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4ee4e3b6f5c8aa0a268"
+  },
+  "userId": {
+    "$oid": "66afd4ee4e3b6f5c8aa0a266"
+  },
+  "brand": "Tuktuk",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd4f24e3b6f5c8aa0a277"
+  },
+  "userId": {
+    "$oid": "66afd4f24e3b6f5c8aa0a275"
+  },
+  "brand": "Rajrang",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5014e3b6f5c8aa0a2c7"
+  },
+  "userId": {
+    "$oid": "66afd5004e3b6f5c8aa0a2c5"
+  },
+  "brand": "Nillkin",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5024e3b6f5c8aa0a2d6"
+  },
+  "userId": {
+    "$oid": "66afd5024e3b6f5c8aa0a2d4"
+  },
+  "brand": "Avantree",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5054e3b6f5c8aa0a2e5"
+  },
+  "userId": {
+    "$oid": "66afd5044e3b6f5c8aa0a2e3"
+  },
+  "brand": "ACM",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5114e3b6f5c8aa0a334"
+  },
+  "userId": {
+    "$oid": "66afd5104e3b6f5c8aa0a332"
+  },
+  "brand": "Standard Fit",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5184e3b6f5c8aa0a367"
+  },
+  "userId": {
+    "$oid": "66afd5184e3b6f5c8aa0a365"
+  },
+  "brand": "AJ Dezines",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd51e4e3b6f5c8aa0a391"
+  },
+  "userId": {
+    "$oid": "66afd51d4e3b6f5c8aa0a38f"
+  },
+  "brand": "SNE",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5224e3b6f5c8aa0a3c4"
+  },
+  "userId": {
+    "$oid": "66afd5224e3b6f5c8aa0a3c2"
+  },
+  "brand": "D-ROCK",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5244e3b6f5c8aa0a3dc"
+  },
+  "userId": {
+    "$oid": "66afd5244e3b6f5c8aa0a3da"
+  },
+  "brand": "Shoe Day",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5254e3b6f5c8aa0a3eb"
+  },
+  "userId": {
+    "$oid": "66afd5254e3b6f5c8aa0a3e9"
+  },
+  "brand": "SayItLoud",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5274e3b6f5c8aa0a3fa"
+  },
+  "userId": {
+    "$oid": "66afd5264e3b6f5c8aa0a3f8"
+  },
+  "brand": "MINDITDADDY",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd52a4e3b6f5c8aa0a413"
+  },
+  "userId": {
+    "$oid": "66afd52a4e3b6f5c8aa0a411"
+  },
+  "brand": "JJC",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5384e3b6f5c8aa0a464"
+  },
+  "userId": {
+    "$oid": "66afd5384e3b6f5c8aa0a462"
+  },
+  "brand": "Stuffcool",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd53b4e3b6f5c8aa0a47e"
+  },
+  "userId": {
+    "$oid": "66afd53b4e3b6f5c8aa0a47c"
+  },
+  "brand": "Bosch",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5404e3b6f5c8aa0a4a9"
+  },
+  "userId": {
+    "$oid": "66afd5404e3b6f5c8aa0a4a7"
+  },
+  "brand": "Rolson",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5414e3b6f5c8aa0a4b8"
+  },
+  "userId": {
+    "$oid": "66afd5414e3b6f5c8aa0a4b6"
+  },
+  "brand": "Spe",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5434e3b6f5c8aa0a4c7"
+  },
+  "userId": {
+    "$oid": "66afd5434e3b6f5c8aa0a4c5"
+  },
+  "brand": "Himtek",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5454e3b6f5c8aa0a4d6"
+  },
+  "userId": {
+    "$oid": "66afd5454e3b6f5c8aa0a4d4"
+  },
+  "brand": "ShadowFax",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5464e3b6f5c8aa0a4e5"
+  },
+  "userId": {
+    "$oid": "66afd5464e3b6f5c8aa0a4e3"
+  },
+  "brand": "BlueStone",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5484e3b6f5c8aa0a4fd"
+  },
+  "userId": {
+    "$oid": "66afd5484e3b6f5c8aa0a4fb"
+  },
+  "brand": "Orico",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd54a4e3b6f5c8aa0a50c"
+  },
+  "userId": {
+    "$oid": "66afd54a4e3b6f5c8aa0a50a"
+  },
+  "brand": "Link+",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd54c4e3b6f5c8aa0a524"
+  },
+  "userId": {
+    "$oid": "66afd54c4e3b6f5c8aa0a522"
+  },
+  "brand": "Tecnia",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5594e3b6f5c8aa0a599"
+  },
+  "userId": {
+    "$oid": "66afd5594e3b6f5c8aa0a597"
+  },
+  "brand": "RANGSUTRA",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd55a4e3b6f5c8aa0a5a8"
+  },
+  "userId": {
+    "$oid": "66afd55a4e3b6f5c8aa0a5a6"
+  },
+  "brand": "Gulmohar Jaipur",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd55e4e3b6f5c8aa0a5c9"
+  },
+  "userId": {
+    "$oid": "66afd55e4e3b6f5c8aa0a5c7"
+  },
+  "brand": "Globalite",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5604e3b6f5c8aa0a5d8"
+  },
+  "userId": {
+    "$oid": "66afd5604e3b6f5c8aa0a5d6"
+  },
+  "brand": "Naisha",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5614e3b6f5c8aa0a5e7"
+  },
+  "userId": {
+    "$oid": "66afd5614e3b6f5c8aa0a5e5"
+  },
+  "brand": "Elligator",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5624e3b6f5c8aa0a5f7"
+  },
+  "userId": {
+    "$oid": "66afd5624e3b6f5c8aa0a5f5"
+  },
+  "brand": "DFH",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5694e3b6f5c8aa0a633"
+  },
+  "userId": {
+    "$oid": "66afd5694e3b6f5c8aa0a631"
+  },
+  "brand": "Trim",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5964e3b6f5c8aa0a798"
+  },
+  "userId": {
+    "$oid": "66afd5964e3b6f5c8aa0a796"
+  },
+  "brand": "Muchmore",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd59b4e3b6f5c8aa0a7c2"
+  },
+  "userId": {
+    "$oid": "66afd59b4e3b6f5c8aa0a7c0"
+  },
+  "brand": "Svvelte",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd59c4e3b6f5c8aa0a7d1"
+  },
+  "userId": {
+    "$oid": "66afd59c4e3b6f5c8aa0a7cf"
+  },
+  "brand": "Homec",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd59d4e3b6f5c8aa0a7e0"
+  },
+  "userId": {
+    "$oid": "66afd59d4e3b6f5c8aa0a7de"
+  },
+  "brand": "Eternz",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd59f4e3b6f5c8aa0a7ef"
+  },
+  "userId": {
+    "$oid": "66afd59e4e3b6f5c8aa0a7ed"
+  },
+  "brand": "Sheetalworld",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5a84e3b6f5c8aa0a83f"
+  },
+  "userId": {
+    "$oid": "66afd5a84e3b6f5c8aa0a83d"
+  },
+  "brand": "Advikacreations",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5a94e3b6f5c8aa0a84e"
+  },
+  "userId": {
+    "$oid": "66afd5a94e3b6f5c8aa0a84c"
+  },
+  "brand": "Shadi Bazaar",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5af4e3b6f5c8aa0a881"
+  },
+  "userId": {
+    "$oid": "66afd5af4e3b6f5c8aa0a87f"
+  },
+  "brand": "Young & Forever",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5b24e3b6f5c8aa0a899"
+  },
+  "userId": {
+    "$oid": "66afd5b24e3b6f5c8aa0a897"
+  },
+  "brand": "Okane",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5b34e3b6f5c8aa0a8a8"
+  },
+  "userId": {
+    "$oid": "66afd5b34e3b6f5c8aa0a8a6"
+  },
+  "brand": "mae",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5b54e3b6f5c8aa0a8b7"
+  },
+  "userId": {
+    "$oid": "66afd5b44e3b6f5c8aa0a8b5"
+  },
+  "brand": "ETHICS",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5b64e3b6f5c8aa0a8c6"
+  },
+  "userId": {
+    "$oid": "66afd5b64e3b6f5c8aa0a8c4"
+  },
+  "brand": "femitaly",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5b74e3b6f5c8aa0a8d5"
+  },
+  "userId": {
+    "$oid": "66afd5b74e3b6f5c8aa0a8d3"
+  },
+  "brand": "ChiragBelhi",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5bc4e3b6f5c8aa0a8f6"
+  },
+  "userId": {
+    "$oid": "66afd5bc4e3b6f5c8aa0a8f4"
+  },
+  "brand": "Simrit",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5bd4e3b6f5c8aa0a905"
+  },
+  "userId": {
+    "$oid": "66afd5bd4e3b6f5c8aa0a903"
+  },
+  "brand": "FashionPedia",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5bf4e3b6f5c8aa0a914"
+  },
+  "userId": {
+    "$oid": "66afd5bf4e3b6f5c8aa0a912"
+  },
+  "brand": "Rajdoot",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5c04e3b6f5c8aa0a923"
+  },
+  "userId": {
+    "$oid": "66afd5c04e3b6f5c8aa0a921"
+  },
+  "brand": "Nivia",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5c34e3b6f5c8aa0a93b"
+  },
+  "userId": {
+    "$oid": "66afd5c24e3b6f5c8aa0a939"
+  },
+  "brand": "i-Sports",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5c74e3b6f5c8aa0a965"
+  },
+  "userId": {
+    "$oid": "66afd5c74e3b6f5c8aa0a963"
+  },
+  "brand": "Spick",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5c94e3b6f5c8aa0a974"
+  },
+  "userId": {
+    "$oid": "66afd5c84e3b6f5c8aa0a972"
+  },
+  "brand": "Force 10 By Liberty",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5ca4e3b6f5c8aa0a983"
+  },
+  "userId": {
+    "$oid": "66afd5ca4e3b6f5c8aa0a981"
+  },
+  "brand": "Lolaski",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5ce4e3b6f5c8aa0a99b"
+  },
+  "userId": {
+    "$oid": "66afd5ce4e3b6f5c8aa0a999"
+  },
+  "brand": "Space",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5d04e3b6f5c8aa0a9aa"
+  },
+  "userId": {
+    "$oid": "66afd5d04e3b6f5c8aa0a9a8"
+  },
+  "brand": "Sonaxo",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5d34e3b6f5c8aa0a9c2"
+  },
+  "userId": {
+    "$oid": "66afd5d34e3b6f5c8aa0a9c0"
+  },
+  "brand": "Xpert",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5d54e3b6f5c8aa0a9d1"
+  },
+  "userId": {
+    "$oid": "66afd5d44e3b6f5c8aa0a9cf"
+  },
+  "brand": "Pu-Right",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5d64e3b6f5c8aa0a9e0"
+  },
+  "userId": {
+    "$oid": "66afd5d64e3b6f5c8aa0a9de"
+  },
+  "brand": "Quechua",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5d74e3b6f5c8aa0a9ef"
+  },
+  "userId": {
+    "$oid": "66afd5d74e3b6f5c8aa0a9ed"
+  },
+  "brand": "Miss Clyra",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5d94e3b6f5c8aa0a9fe"
+  },
+  "userId": {
+    "$oid": "66afd5d84e3b6f5c8aa0a9fc"
+  },
+  "brand": "Rex",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5dc4e3b6f5c8aa0aa16"
+  },
+  "userId": {
+    "$oid": "66afd5dc4e3b6f5c8aa0aa14"
+  },
+  "brand": "Day By Day",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5dd4e3b6f5c8aa0aa25"
+  },
+  "userId": {
+    "$oid": "66afd5dd4e3b6f5c8aa0aa23"
+  },
+  "brand": "Pu-Easy Life",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5de4e3b6f5c8aa0aa34"
+  },
+  "userId": {
+    "$oid": "66afd5de4e3b6f5c8aa0aa32"
+  },
+  "brand": "Cotton On Kids",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5e04e3b6f5c8aa0aa43"
+  },
+  "userId": {
+    "$oid": "66afd5e04e3b6f5c8aa0aa41"
+  },
+  "brand": "Antshrike",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5e24e3b6f5c8aa0aa5b"
+  },
+  "userId": {
+    "$oid": "66afd5e24e3b6f5c8aa0aa59"
+  },
+  "brand": "Bio kid",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5e74e3b6f5c8aa0aa85"
+  },
+  "userId": {
+    "$oid": "66afd5e74e3b6f5c8aa0aa83"
+  },
+  "brand": "Clickroo",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5eb4e3b6f5c8aa0aaa6"
+  },
+  "userId": {
+    "$oid": "66afd5eb4e3b6f5c8aa0aaa4"
+  },
+  "brand": "Lux Inferno",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5ec4e3b6f5c8aa0aab5"
+  },
+  "userId": {
+    "$oid": "66afd5ec4e3b6f5c8aa0aab3"
+  },
+  "brand": "Anshul fashion",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5f04e3b6f5c8aa0aad6"
+  },
+  "userId": {
+    "$oid": "66afd5f04e3b6f5c8aa0aad4"
+  },
+  "brand": "Parth Collection",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5f24e3b6f5c8aa0aae7"
+  },
+  "userId": {
+    "$oid": "66afd5f24e3b6f5c8aa0aae5"
+  },
+  "brand": "Gharonda",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5f34e3b6f5c8aa0aaf6"
+  },
+  "userId": {
+    "$oid": "66afd5f34e3b6f5c8aa0aaf4"
+  },
+  "brand": "GM",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5f44e3b6f5c8aa0ab05"
+  },
+  "userId": {
+    "$oid": "66afd5f44e3b6f5c8aa0ab03"
+  },
+  "brand": "Queen Steps",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5f84e3b6f5c8aa0ab26"
+  },
+  "userId": {
+    "$oid": "66afd5f74e3b6f5c8aa0ab24"
+  },
+  "brand": "NumBrave",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5fa4e3b6f5c8aa0ab3e"
+  },
+  "userId": {
+    "$oid": "66afd5fa4e3b6f5c8aa0ab3c"
+  },
+  "brand": "MOOI-ZAK",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5fe4e3b6f5c8aa0ab60"
+  },
+  "userId": {
+    "$oid": "66afd5fe4e3b6f5c8aa0ab5e"
+  },
+  "brand": "Tucano",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd5ff4e3b6f5c8aa0ab6f"
+  },
+  "userId": {
+    "$oid": "66afd5ff4e3b6f5c8aa0ab6d"
+  },
+  "brand": "Anjalika",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6034e3b6f5c8aa0ab87"
+  },
+  "userId": {
+    "$oid": "66afd6034e3b6f5c8aa0ab85"
+  },
+  "brand": "Agaro",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6064e3b6f5c8aa0ab9f"
+  },
+  "userId": {
+    "$oid": "66afd6064e3b6f5c8aa0ab9d"
+  },
+  "brand": "Spangle",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6074e3b6f5c8aa0abae"
+  },
+  "userId": {
+    "$oid": "66afd6074e3b6f5c8aa0abac"
+  },
+  "brand": "Usmas",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6084e3b6f5c8aa0abbd"
+  },
+  "userId": {
+    "$oid": "66afd6084e3b6f5c8aa0abbb"
+  },
+  "brand": "My Party Suppliers",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6094e3b6f5c8aa0abce"
+  },
+  "userId": {
+    "$oid": "66afd6094e3b6f5c8aa0abcc"
+  },
+  "brand": "Case Logic",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd60b4e3b6f5c8aa0abdd"
+  },
+  "userId": {
+    "$oid": "66afd60b4e3b6f5c8aa0abdb"
+  },
+  "brand": "TOP Q",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd60c4e3b6f5c8aa0abec"
+  },
+  "userId": {
+    "$oid": "66afd60c4e3b6f5c8aa0abea"
+  },
+  "brand": "Majestic",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6144e3b6f5c8aa0ac28"
+  },
+  "userId": {
+    "$oid": "66afd6144e3b6f5c8aa0ac26"
+  },
+  "brand": "carrol",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd61a4e3b6f5c8aa0ac76"
+  },
+  "userId": {
+    "$oid": "66afd61a4e3b6f5c8aa0ac74"
+  },
+  "brand": "DANR",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd61c4e3b6f5c8aa0ac85"
+  },
+  "userId": {
+    "$oid": "66afd61c4e3b6f5c8aa0ac83"
+  },
+  "brand": "Anupamaa",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd61e4e3b6f5c8aa0ac9d"
+  },
+  "userId": {
+    "$oid": "66afd61e4e3b6f5c8aa0ac9b"
+  },
+  "brand": "Breathe",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6224e3b6f5c8aa0acbe"
+  },
+  "userId": {
+    "$oid": "66afd6214e3b6f5c8aa0acbc"
+  },
+  "brand": "Artengo",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6234e3b6f5c8aa0accf"
+  },
+  "userId": {
+    "$oid": "66afd6234e3b6f5c8aa0accd"
+  },
+  "brand": "Yepme",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6244e3b6f5c8aa0acde"
+  },
+  "userId": {
+    "$oid": "66afd6244e3b6f5c8aa0acdc"
+  },
+  "brand": "Ira Soleil",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6284e3b6f5c8aa0acff"
+  },
+  "userId": {
+    "$oid": "66afd6284e3b6f5c8aa0acfd"
+  },
+  "brand": "Little's Wear",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd62b4e3b6f5c8aa0ad20"
+  },
+  "userId": {
+    "$oid": "66afd62b4e3b6f5c8aa0ad1e"
+  },
+  "brand": "LIENZ",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6324e3b6f5c8aa0ad65"
+  },
+  "userId": {
+    "$oid": "66afd6324e3b6f5c8aa0ad63"
+  },
+  "brand": "Laser X",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6364e3b6f5c8aa0ad8f"
+  },
+  "userId": {
+    "$oid": "66afd6364e3b6f5c8aa0ad8d"
+  },
+  "brand": "MRB",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd63d4e3b6f5c8aa0add4"
+  },
+  "userId": {
+    "$oid": "66afd63d4e3b6f5c8aa0add2"
+  },
+  "brand": "Jbn Creation",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6404e3b6f5c8aa0adec"
+  },
+  "userId": {
+    "$oid": "66afd63f4e3b6f5c8aa0adea"
+  },
+  "brand": "Arghyam",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6424e3b6f5c8aa0adfd"
+  },
+  "userId": {
+    "$oid": "66afd6424e3b6f5c8aa0adfb"
+  },
+  "brand": "Hubberholme",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6434e3b6f5c8aa0ae0c"
+  },
+  "userId": {
+    "$oid": "66afd6434e3b6f5c8aa0ae0a"
+  },
+  "brand": "IndiWeaves",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6444e3b6f5c8aa0ae1b"
+  },
+  "userId": {
+    "$oid": "66afd6444e3b6f5c8aa0ae19"
+  },
+  "brand": "GENIAL",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6454e3b6f5c8aa0ae2a"
+  },
+  "userId": {
+    "$oid": "66afd6454e3b6f5c8aa0ae28"
+  },
+  "brand": "ANAND ARCHIES",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd64a4e3b6f5c8aa0ae42"
+  },
+  "userId": {
+    "$oid": "66afd64a4e3b6f5c8aa0ae40"
+  },
+  "brand": "SV Creations",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd64b4e3b6f5c8aa0ae51"
+  },
+  "userId": {
+    "$oid": "66afd64b4e3b6f5c8aa0ae4f"
+  },
+  "brand": "Adore London",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd64c4e3b6f5c8aa0ae60"
+  },
+  "userId": {
+    "$oid": "66afd64c4e3b6f5c8aa0ae5e"
+  },
+  "brand": "Meow Wings",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd64e4e3b6f5c8aa0ae6f"
+  },
+  "userId": {
+    "$oid": "66afd64d4e3b6f5c8aa0ae6d"
+  },
+  "brand": "Priority",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd64f4e3b6f5c8aa0ae7e"
+  },
+  "userId": {
+    "$oid": "66afd64f4e3b6f5c8aa0ae7c"
+  },
+  "brand": "Deep",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6504e3b6f5c8aa0ae8e"
+  },
+  "userId": {
+    "$oid": "66afd6504e3b6f5c8aa0ae8c"
+  },
+  "brand": "Butterflies",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6514e3b6f5c8aa0ae9d"
+  },
+  "userId": {
+    "$oid": "66afd6514e3b6f5c8aa0ae9b"
+  },
+  "brand": "DLOOP",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6544e3b6f5c8aa0aeb5"
+  },
+  "userId": {
+    "$oid": "66afd6534e3b6f5c8aa0aeb3"
+  },
+  "brand": "dongli",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6554e3b6f5c8aa0aec4"
+  },
+  "userId": {
+    "$oid": "66afd6554e3b6f5c8aa0aec2"
+  },
+  "brand": "V-AARCI",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6564e3b6f5c8aa0aed3"
+  },
+  "userId": {
+    "$oid": "66afd6564e3b6f5c8aa0aed1"
+  },
+  "brand": "Aarika",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd65a4e3b6f5c8aa0aef4"
+  },
+  "userId": {
+    "$oid": "66afd65a4e3b6f5c8aa0aef2"
+  },
+  "brand": "Furncoms",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd65b4e3b6f5c8aa0af03"
+  },
+  "userId": {
+    "$oid": "66afd65b4e3b6f5c8aa0af01"
+  },
+  "brand": "Kaatru",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd65d4e3b6f5c8aa0af12"
+  },
+  "userId": {
+    "$oid": "66afd65d4e3b6f5c8aa0af10"
+  },
+  "brand": "Iron Crafts",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd65f4e3b6f5c8aa0af21"
+  },
+  "userId": {
+    "$oid": "66afd65f4e3b6f5c8aa0af1f"
+  },
+  "brand": "Riddhi Siddhi",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6604e3b6f5c8aa0af32"
+  },
+  "userId": {
+    "$oid": "66afd6604e3b6f5c8aa0af30"
+  },
+  "brand": "Body Care",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6624e3b6f5c8aa0af41"
+  },
+  "userId": {
+    "$oid": "66afd6624e3b6f5c8aa0af3f"
+  },
+  "brand": "Cenizas",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6654e3b6f5c8aa0af59"
+  },
+  "userId": {
+    "$oid": "66afd6644e3b6f5c8aa0af57"
+  },
+  "brand": "Khaan Saab Editions",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6664e3b6f5c8aa0af68"
+  },
+  "userId": {
+    "$oid": "66afd6664e3b6f5c8aa0af66"
+  },
+  "brand": "SMART TRADERS",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6684e3b6f5c8aa0af80"
+  },
+  "userId": {
+    "$oid": "66afd6684e3b6f5c8aa0af7e"
+  },
+  "brand": "Foot Candy",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd66b4e3b6f5c8aa0af98"
+  },
+  "userId": {
+    "$oid": "66afd66b4e3b6f5c8aa0af96"
+  },
+  "brand": "Mod-Inn",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd66e4e3b6f5c8aa0afb0"
+  },
+  "userId": {
+    "$oid": "66afd66e4e3b6f5c8aa0afae"
+  },
+  "brand": "Aston Paris",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6704e3b6f5c8aa0afc8"
+  },
+  "userId": {
+    "$oid": "66afd6704e3b6f5c8aa0afc6"
+  },
+  "brand": "Scot Wilson",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6724e3b6f5c8aa0afd7"
+  },
+  "userId": {
+    "$oid": "66afd6714e3b6f5c8aa0afd5"
+  },
+  "brand": "Manthan",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6734e3b6f5c8aa0afe6"
+  },
+  "userId": {
+    "$oid": "66afd6734e3b6f5c8aa0afe4"
+  },
+  "brand": "TEMPO",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6754e3b6f5c8aa0aff5"
+  },
+  "userId": {
+    "$oid": "66afd6744e3b6f5c8aa0aff3"
+  },
+  "brand": "EASIES",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6774e3b6f5c8aa0b00d"
+  },
+  "userId": {
+    "$oid": "66afd6774e3b6f5c8aa0b00b"
+  },
+  "brand": "UCB",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd67a4e3b6f5c8aa0b01c"
+  },
+  "userId": {
+    "$oid": "66afd67a4e3b6f5c8aa0b01a"
+  },
+  "brand": "Sting",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6804e3b6f5c8aa0b046"
+  },
+  "userId": {
+    "$oid": "66afd6804e3b6f5c8aa0b044"
+  },
+  "brand": "Masterhandicraft",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6824e3b6f5c8aa0b056"
+  },
+  "userId": {
+    "$oid": "66afd6824e3b6f5c8aa0b054"
+  },
+  "brand": "FreeHand",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6864e3b6f5c8aa0b077"
+  },
+  "userId": {
+    "$oid": "66afd6854e3b6f5c8aa0b075"
+  },
+  "brand": "SKIDLERS",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6874e3b6f5c8aa0b086"
+  },
+  "userId": {
+    "$oid": "66afd6874e3b6f5c8aa0b084"
+  },
+  "brand": "hi-tech",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6884e3b6f5c8aa0b095"
+  },
+  "userId": {
+    "$oid": "66afd6884e3b6f5c8aa0b093"
+  },
+  "brand": "JBI",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd68a4e3b6f5c8aa0b0a4"
+  },
+  "userId": {
+    "$oid": "66afd6894e3b6f5c8aa0b0a2"
+  },
+  "brand": "Raju purse collection",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd68b4e3b6f5c8aa0b0bc"
+  },
+  "userId": {
+    "$oid": "66afd68b4e3b6f5c8aa0b0ba"
+  },
+  "brand": "BUTTERFILES",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd68d4e3b6f5c8aa0b0cb"
+  },
+  "userId": {
+    "$oid": "66afd68c4e3b6f5c8aa0b0c9"
+  },
+  "brand": "Histeria",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6a14e3b6f5c8aa0b18e"
+  },
+  "userId": {
+    "$oid": "66afd6a14e3b6f5c8aa0b18c"
+  },
+  "brand": "raju purse collection",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6a24e3b6f5c8aa0b19d"
+  },
+  "userId": {
+    "$oid": "66afd6a24e3b6f5c8aa0b19b"
+  },
+  "brand": "Raju Purse Collection",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6a54e3b6f5c8aa0b1b5"
+  },
+  "userId": {
+    "$oid": "66afd6a54e3b6f5c8aa0b1b3"
+  },
+  "brand": "GoWell",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6a74e3b6f5c8aa0b1cd"
+  },
+  "userId": {
+    "$oid": "66afd6a74e3b6f5c8aa0b1cb"
+  },
+  "brand": "Vedic Deals",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66afd6aa4e3b6f5c8aa0b1e5"
+  },
+  "userId": {
+    "$oid": "66afd6aa4e3b6f5c8aa0b1e3"
+  },
+  "brand": "Luca Fashion",
+  "location": {
+    "street": "ABC",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201005"
+  },
+  "__v": 0
+}]
